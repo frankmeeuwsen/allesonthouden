@@ -2,34 +2,8 @@
 ID: 805
 post_title: 55 manieren waarop ik Evernote gebruik
 author: Frank Meeuwsen
-post_date: 2015-01-06 19:24:20
-post_excerpt: ""
 layout: page
-permalink: >
-  https://allesonthouden.nl/55-manieren-waarop-ik-evernote-gebruik/
-published: true
-sw_timestamp:
-  - "399957"
-bitly_link_twitter:
-  - http://bit.ly/1iuCuZ5
-bitly_link_facebook:
-  - http://bit.ly/1iuCvfi
-bitly_link_linkedIn:
-  - http://bit.ly/1iuCuYO
-bitly_link_tumblr:
-  - http://bit.ly/1iuCuYR
-sw_open_thumbnail_url:
-  - ""
-sw_cache_timestamp:
-  - "408727"
-dsq_thread_id:
-  - "5082352448"
-swp_open_thumbnail_url:
-  - ""
-swp_open_graph_image_data:
-  - 'false'
-swp_cache_timestamp:
-  - "410338"
+
 ---
 Dit is een lopende lijst van manieren waarop ik Evernote gebruik in mijn dagelijks leven, zowel privé als professioneel. De lijst zal waarschijnlijk steeds langer worden en als nodig voeg ik een datum referentie toe. Hopelijk krijg je op deze manier een idee hoe je Evernote zelf kunt gebruiken.
 <h2 id="werk">Werk</h2>
