@@ -3,39 +3,8 @@ ID: 687
 post_title: 'Evernote is je moderne werkplek (live vanaf #EC4)'
 author: Frank Meeuwsen
 post_date: 2014-10-02 22:48:09
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/ec4-evernote-je-moderne-werkplek/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399929"
-bitly_link:
-  - http://bit.ly/1Q1wNzc
-bitly_link_twitter:
-  - http://bit.ly/1Q1xwAs
-bitly_link_facebook:
-  - http://bit.ly/1RjFHsD
-bitly_link_linkedIn:
-  - http://bit.ly/1Novo5i
-bitly_link_tumblr:
-  - http://bit.ly/1Novr0J
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/10/featured_ec4keynotephil.jpg
-sw_cache_timestamp:
-  - "407034"
-swp_cache_timestamp:
-  - "409935"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/10/featured_ec4keynotephil.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/10/featured_ec4keynotephil.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Vandaag trapte CEO Phil Libin de vierde editie af van hun jaarlijkse Evernote conferentie met een aantal zeer interessante aankondigingen en nieuwe producten in het Evernote ecosysteem. De algemene tendens bij Evernote is dat ze steeds verder verschuiven van "digitaal notitieboek" naar de plaats waar je het beste werk doet wat je kunt doen.</strong>
 

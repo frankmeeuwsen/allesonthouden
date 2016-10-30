@@ -3,33 +3,8 @@ ID: 843
 post_title: Hoe orden je je labels in Evernote?
 author: Frank Meeuwsen
 post_date: 2015-04-05 19:20:05
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/labels-in-evernote/
 published: true
-sw_timestamp:
-  - "399956"
-bitly_link_twitter:
-  - http://bit.ly/1Wopvuv
-bitly_link_facebook:
-  - http://bit.ly/1Wopx5H
-bitly_link_linkedIn:
-  - http://bit.ly/1Q1xPLz
-bitly_link_tumblr:
-  - http://bit.ly/1Q1xQzm
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/04/feature-labelstructuur.png
-sw_cache_timestamp:
-  - "408715"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/04/feature-labelstructuur.png
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2015/04/feature-labelstructuur.png?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410341"
 ---
 <strong>Ik kreeg recent de volgende vraag binnen: In Evernote kun je labels aanbrengen, maar ik heb nog niet ontdekt hoe je slim kunt filteren zodat je uit vele tientallen en op den duur misschien wel honderden, een bepaalde notitie snel terug wilt vinden.
 Zo heb ik een project waarbinnen het aantal notities heel snel groeit. Dus krijg ik al snel een onoverzichtelijke lijst. Hoe kun je slim filteren met labels?</strong>

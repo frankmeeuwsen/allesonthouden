@@ -3,39 +3,8 @@ ID: 161
 post_title: De 3 elementen van Evernote Business
 author: Frank Meeuwsen
 post_date: 2014-08-05 09:30:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/de-3-elementen-van-evernote-business/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399965"
-bitly_link:
-  - http://bit.ly/1Q1wNzh
-bitly_link_twitter:
-  - http://bit.ly/1Q1xyby
-bitly_link_facebook:
-  - http://bit.ly/20zcY72
-bitly_link_linkedIn:
-  - http://bit.ly/1l6dmJX
-bitly_link_tumblr:
-  - http://bit.ly/1l6dmJY
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_business.jpg
-sw_cache_timestamp:
-  - "408445"
-swp_cache_timestamp:
-  - "409688"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_business.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/08/Featured_business.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Je kunt gebruik maken van Evernote om recepten, hobby of persoonlijke projecten bij te houden. Evernote is een zeer persoonlijk programma, waar je je eigen stijl en vorm van werken in ontwikkeld. Een bedrijf of een team moet informatie en kennis verzamelen en delen met meerdere mensen of groepen van mensen binnen dat bedrijf. Bovendien kunnen leden van een team tijd besparen als informatie die al is verzameld in het bedrijf beschikbaar is voor ze. Tenslotte hebben bedrijf nog een uitdaging die je als individu minder hebt. Mensen verlaten het bedrijf en daarmee mogelijk de kennis en informatie die ze hebben verzameld. Terwijl de verzamelde kennis bij het bedrijf zou moeten blijven. Evernote Business is zo ontworpen dat het deze uitdagingen oppakt.</strong>
 

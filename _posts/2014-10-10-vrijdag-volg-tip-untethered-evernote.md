@@ -3,33 +3,8 @@ ID: 700
 post_title: 'Vrijdag Volg Tip &#8211; Untethered with Evernote'
 author: Frank Meeuwsen
 post_date: 2014-10-10 21:31:46
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/vrijdag-volg-tip-untethered-evernote/
 published: true
-sw_timestamp:
-  - "399904"
-bitly_link_twitter:
-  - http://bit.ly/1itMu4H
-bitly_link_facebook:
-  - http://bit.ly/1itMu4I
-bitly_link_linkedIn:
-  - http://bit.ly/1itMtO3
-bitly_link_tumblr:
-  - http://bit.ly/1itMrpm
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/10/Featured_untethered.jpg
-sw_cache_timestamp:
-  - "405927"
-swp_cache_timestamp:
-  - "409819"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/10/Featured_untethered.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/10/Featured_untethered.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Op vrijdag krijg je een tip van me voor een website die over Evernote gaat en de moeite waard is om te volgen. De Evernote community groeit steeds groter en er komen meer interessante plekken bij met scripts, tips en inspiratie om Evernote te gebruiken. Ik laat je graag zien wat er nog meer is te vinden op het web rondom Evernote!</strong>
 

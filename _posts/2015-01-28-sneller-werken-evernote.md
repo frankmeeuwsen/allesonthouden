@@ -3,35 +3,8 @@ ID: 828
 post_title: Sneller werken in Evernote
 author: Frank Meeuwsen
 post_date: 2015-01-28 09:00:14
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/sneller-werken-evernote/
 published: true
-sw_timestamp:
-  - "399947"
-bitly_link_twitter:
-  - http://bit.ly/1KMZpp6
-bitly_link_facebook:
-  - http://bit.ly/1KMZpp7
-bitly_link_linkedIn:
-  - http://bit.ly/1KMYx3Q
-bitly_link_tumblr:
-  - http://bit.ly/1KMYuFa
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/01/header_globalsneltoetsen.png
-sw_cache_timestamp:
-  - "408734"
-dsq_thread_id:
-  - "5099376729"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/01/header_globalsneltoetsen.png
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2015/01/header_globalsneltoetsen.png?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410334"
 ---
 <p><strong>Het is geen geheim dat je productiviteit en <em>plezier</em> in werken vooruit gaat als je in een flow zit. Als je niet hoeft na te denken over wat je waar heen stuurt, op welke knop je drukt of welk menu je nodig hebt, maar het gewoon kunt <em>doen</em>. Sneltoetsen helpen hier bij en natuurlijk heeft Evernote een aantal sneltoetsen tot zijn beschikking.</strong>
 <!--more--></p>

@@ -3,33 +3,8 @@ ID: 535
 post_title: Wat betekent het om Alles te Onthouden?
 author: Frank Meeuwsen
 post_date: 2014-08-31 21:45:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/wat-betekent-het-om-alles-te-onthouden/
 published: true
-sw_timestamp:
-  - "399965"
-bitly_link_twitter:
-  - http://bit.ly/1Oim4kA
-bitly_link_facebook:
-  - http://bit.ly/1Oim4kB
-bitly_link_linkedIn:
-  - http://bit.ly/1SgBQLo
-bitly_link_tumblr:
-  - http://bit.ly/1SgBSD7
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_HelloWorld.jpg
-sw_cache_timestamp:
-  - "408644"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_HelloWorld.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/08/Featured_HelloWorld.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410317"
 ---
 <strong>In 2012 kocht ik mijn eerste Macbook Air. Het was voor mij de overstap van Windows naar Apple, maar dat is nu even niet terzake doende. In dit verhaal is het belangrijk hóe het gebeurde. Ik was er op gebrand dat ik die vrijdagmiddag in maart een Mac zou kopen. Ik had het weekend vrijgepland om het apparaat te leren kennen en alles over te zetten van Windows naar Mac, zodat ik die maandag met goed fatsoen weer voor de klas kon staan met al het juiste materiaal. Mijn docentschap is een belangrijk onderdeel in dit verhaal…</strong>
 

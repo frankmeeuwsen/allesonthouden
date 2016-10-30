@@ -3,33 +3,8 @@ ID: 153
 post_title: '#Evernotecollection &#8211; Webclipper'
 author: Frank Meeuwsen
 post_date: 2014-07-20 09:15:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/evernotecollection-webclipper/
 published: true
-sw_timestamp:
-  - "399954"
-bitly_link_twitter:
-  - http://bit.ly/1WYBNVw
-bitly_link_facebook:
-  - http://bit.ly/1WYBNVz
-bitly_link_linkedIn:
-  - http://bit.ly/1MEanVt
-bitly_link_tumblr:
-  - http://bit.ly/1MEaqQS
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_webclipper.jpg
-sw_cache_timestamp:
-  - "408610"
-swp_cache_timestamp:
-  - "410049"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_webclipper.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/Featured_webclipper.jpg?fit=680%2C275&ssl=1",680,275,false]'
 ---
 <strong>Een van de meest krachtige onderdelen van Evernote is de mogelijkheid om onderdelen van een webpagina met en zonder opmaak op te slaan en te organiseren. Voor onderzoek of inspiratie is de webclipper een goede extensie om in je browser te hebben. In dit artikel leg ik uit hoe je de webclipper kunt gebruiken, welke mogelijkheden er zijn en hoe je hem instelt voor makkelijk gebruik.</strong>
 

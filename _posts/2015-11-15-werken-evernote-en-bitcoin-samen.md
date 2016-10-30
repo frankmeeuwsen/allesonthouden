@@ -3,63 +3,8 @@ ID: 1027
 post_title: Werken Evernote en bitcoin samen?
 author: Frank Meeuwsen
 post_date: 2015-11-15 11:31:24
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/werken-evernote-en-bitcoin-samen/
 published: true
-nc_postLocation:
-  - default
-nc_floatLocation:
-  - 'on'
-twitterID:
-  - allesonthouden
-nc_ogImage:
-  - "1036"
-nc_pinterestImage:
-  - "1039"
-nc_ogTitle:
-  - Wat heeft Evernote met bitcoin te maken?
-nc_ogDescription:
-  - >
-    Op de website van Evernote zijn meerdere
-    referenties naar bitcoin te vinden. Een
-    grap van de designers?
-nc_pinterestDescription:
-  - Wat heeft Evernote met bitcoin te maken?
-nc_customTweet:
-  - >
-    Op de website van Evernote zijn meerdere
-    referenties naar bitcoin te vinden.
-    Designhumor?
-sw_open_thumbnail_url:
-  - ""
-bitly_link_twitter:
-  - http://bit.ly/1H2XTVd
-bitly_link_facebook:
-  - http://bit.ly/1H2XX76
-bitly_link_linkedIn:
-  - http://bit.ly/1H2XUbt
-bitly_link_tumblr:
-  - http://bit.ly/1H2XX79
-sw_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/11/banner_bitcoin.jpg
-sw_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/11/pin_Werken-Evernote-en-bitcoin-samen_.jpg
-sw_cache_timestamp:
-  - "408351"
-swp_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/11/pin_Werken-Evernote-en-bitcoin-samen_.jpg
-swp_cache_timestamp:
-  - "409670"
-swp_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/11/banner_bitcoin.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2015/11/banner_bitcoin.jpg?fit=1024%2C512&ssl=1",1024,512,false]'
 ---
 **Deze keer geen tip of handige workflow in Evernote, maar een grappige combinatie van ons favoriete opslagprogramma en bitcoin, de nieuwe virtuele munteenheid die steeds meer populair wordt.**
 

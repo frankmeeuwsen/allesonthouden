@@ -3,35 +3,8 @@ ID: 704
 post_title: Audionotities met Evernote
 author: Frank Meeuwsen
 post_date: 2014-10-14 09:00:24
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/audionotities-met-evernote/
 published: true
-sw_timestamp:
-  - "399958"
-bitly_link_twitter:
-  - http://bit.ly/1k4HViY
-bitly_link_facebook:
-  - http://bit.ly/1k4HViZ
-bitly_link_linkedIn:
-  - http://bit.ly/1kjBhEU
-bitly_link_tumblr:
-  - http://bit.ly/1kjBjN6
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/10/featured_audio.jpg
-sw_cache_timestamp:
-  - "408707"
-dsq_thread_id:
-  - "5087892884"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/10/featured_audio.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/10/featured_audio.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410337"
 ---
 <strong>Gebruik je wel eens de audiomogelijkheid in Evernote? Bij elke notitie kun je direct geluid opnemen via de microfoon van je computer, laptop of mobiel. Je kunt daar best wel handige dingen mee doen. Ik zoek zelf nog steeds naar goede gebruiksmomenten en ik gebruik het nog te weinig naar eigen idee, maar ik heb al wel een tip voor je die ik laatst van een andere Evernote Business Consultant hoorde.</strong>
 

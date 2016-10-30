@@ -3,33 +3,8 @@ ID: 850
 post_title: 'Evernote vernieuwt abonnementen en verhoogt quota&#8217;s'
 author: Frank Meeuwsen
 post_date: 2015-04-29 17:39:59
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/nieuwe-abonnementen-evernote-en-hoge-quotas/
 published: true
-sw_timestamp:
-  - "399955"
-bitly_link_twitter:
-  - http://bit.ly/1iu06wN
-bitly_link_facebook:
-  - http://bit.ly/1iu04oH
-bitly_link_linkedIn:
-  - http://bit.ly/1iu048g
-bitly_link_tumblr:
-  - http://bit.ly/1iu048h
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/04/featured_quota.png
-sw_cache_timestamp:
-  - "408667"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/04/featured_quota.png
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2015/04/featured_quota.png?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410247"
 ---
 <p><strong>Met ingang van vandaag zal Evernote een nieuw abonnement kennen &#8220;Evernote Plus&#8221; en worden de bestaande abonnementsvormen opnieuw gepositioneerd. In plaats van een &#8220;upgrade&#8221; model krijg je de mogelijkheid om de beste vorm van Evernote voor je behoefte te kiezen. Tevens veranderen de limieten voor notitiegrootte en maandelijkse uploadquota van Evernote Premium naar respectievelijk 200 Mb per notitie en een ongelimiteerd quotum. In dit artikel zet ik alle vernieuwingen op een rij.</strong> </p>
 

@@ -5,33 +5,8 @@ post_title: >
   telefoon
 author: Frank Meeuwsen
 post_date: 2014-08-10 17:00:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/scan-je-bonnetjes-naar-evernote-via-je-telefoon/
 published: true
-sw_timestamp:
-  - "399964"
-bitly_link_twitter:
-  - http://bit.ly/1N1VwOD
-bitly_link_facebook:
-  - http://bit.ly/1N1VwOG
-bitly_link_linkedIn:
-  - http://bit.ly/1itZVl3
-bitly_link_tumblr:
-  - http://bit.ly/1itZSWz
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Feature_smartphonescans.jpg
-sw_cache_timestamp:
-  - "408732"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Feature_smartphonescans.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/08/Feature_smartphonescans.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410338"
 ---
 <strong>In de pre-scanner tijd was mijn bureau en portemonnee bezaaid met bonnetjes. Want het waren garantiebewijzen, ik moest er nog eens iets mee of gewoon, omdat ik nogal eens wat in een winkel kocht en dus een papieren bonnetje kreeg. In tegenstelling tot de digitale facturen bij alle webwinkels van nu. Maar nog steeds komen er facturen en bonnetjes in ons leven en het zou mooi zijn als we die kunnen digitaliseren. Want het is niet meer nodig om alle bonnetjes in een map te bewaren en te nummeren. Voor je eigen administratie is het prima om ze in te scannen en ze zo veel makkelijker doorzoekbaar te maken.</strong>
 

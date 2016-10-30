@@ -5,52 +5,8 @@ post_title: >
   notitie
 author: Frank Meeuwsen
 post_date: 2015-05-15 22:43:48
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/verander-de-datum-van-je-evernote-notitie/
 published: true
-nc_postLocation:
-  - default
-nc_ogImage:
-  - "893"
-nc_pinterestImage:
-  - "894"
-nc_ogDescription:
-  - >
-    Hoe verander je de datum van een
-    Evernote notitie en in welke gevallen
-    doe je dat?
-sw_timestamp:
-  - "399947"
-bitly_link_twitter:
-  - http://bit.ly/1NlZbLO
-bitly_link_facebook:
-  - http://bit.ly/1NlZeqT
-bitly_link_linkedIn:
-  - http://bit.ly/1itMuli
-bitly_link_tumblr:
-  - http://bit.ly/1itMrWx
-sw_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/05/Hoe-verander-je-de-datum-van-een.png
-sw_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/05/Verander-de-datum-van-je-Evernote.png
-sw_cache_timestamp:
-  - "408558"
-dsq_thread_id:
-  - "5097511892"
-swp_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/05/Hoe-verander-je-de-datum-van-een.png
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2015/05/Hoe-verander-je-de-datum-van-een.png?fit=1024%2C512&ssl=1",1024,512,false]'
-swp_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/05/Verander-de-datum-van-je-Evernote.png
-swp_cache_timestamp:
-  - "410342"
 ---
 <strong>Na het inscannen van documenten of als je een PDF in Evernote hebt geplaatst, zul je zien dat de notitie altijd een aanmaakdatum krijgt van vandaag. Dat kan soms handig zijn maar als je Evernote gebruikt als takenlijst of om je documenten op datum te bewaren, dan is het beter om de datum van de notitie goed te zetten</strong>
 

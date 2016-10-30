@@ -5,35 +5,8 @@ post_title: >
   Evernote
 author: Frank Meeuwsen
 post_date: 2014-08-24 11:45:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/leer-alles-evernote-met-het-e-book-lifehacking-met-evernote/
 published: true
-nc_postLocation:
-  - default
-sw_timestamp:
-  - "399929"
-bitly_link_twitter:
-  - http://bit.ly/1MrnUsV
-bitly_link_facebook:
-  - http://bit.ly/1MrnUsW
-bitly_link_linkedIn:
-  - http://bit.ly/1MrnW4b
-bitly_link_tumblr:
-  - http://bit.ly/1MrnW4e
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_ebookLME.jpg
-sw_cache_timestamp:
-  - "408635"
-swp_cache_timestamp:
-  - "410272"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_ebookLME.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/08/Featured_ebookLME.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Hoe gebruik je Evernote handig? Welke mogelijkheden zijn er op tablet en smartphone? Hoe organiseer ik mijn notities? Samen met andere auteurs van Lifehacking kregen we vaak deze vraag. Zo vaak, dat we besloten er een e-book van te maken: Lifehacking met Evernote.</strong>
 

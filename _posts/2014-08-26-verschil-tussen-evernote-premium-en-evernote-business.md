@@ -5,39 +5,8 @@ post_title: >
   Premium en Evernote Business?
 author: Frank Meeuwsen
 post_date: 2014-08-26 22:17:58
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/verschil-tussen-evernote-premium-en-evernote-business/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399954"
-bitly_link_twitter:
-  - http://bit.ly/1MEdXPj
-bitly_link_facebook:
-  - http://bit.ly/1MEdXPm
-bitly_link_linkedIn:
-  - http://bit.ly/1MEdZGI
-bitly_link_tumblr:
-  - http://bit.ly/1MEdXPn
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_VerschilPremiumBusiness.jpg
-sw_cache_timestamp:
-  - "408731"
-dsq_thread_id:
-  - "5090688468"
-swp_cache_timestamp:
-  - "410247"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_VerschilPremiumBusiness.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/08/Featured_VerschilPremiumBusiness.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Ik krijg geregeld de vraag wat nu het echte verschil is tussen de Evernote die vrijwel iedereen wel kent en het nog altijd relatief nieuwe Evernote Business. Zijn er andere mogelijkheden? Moet je een tweede versie installeren? Wat kun je met een Business account wat met een Premium account niet kan? Ik zet een aantal van de verschillen eens op een rij voor je.</strong>
 

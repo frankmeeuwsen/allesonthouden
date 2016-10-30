@@ -3,37 +3,8 @@ ID: 158
 post_title: Hernoem je standaard notitieboek
 author: Frank Meeuwsen
 post_date: 2014-07-29 09:30:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/hernoem-je-standaard-notitieboek/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399949"
-bitly_link_twitter:
-  - http://bit.ly/1SjEm3D
-bitly_link_facebook:
-  - http://bit.ly/1SjEm3E
-bitly_link_linkedIn:
-  - http://bit.ly/1SgxX9n
-bitly_link_tumblr:
-  - http://bit.ly/1SgxVhF
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_Hernoemnotebook.jpg
-sw_cache_timestamp:
-  - "408552"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_Hernoemnotebook.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/Featured_Hernoemnotebook.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410342"
 ---
 <strong>Als je begint met Evernote zie je als eerste een leeg programma met een aantal tips van Evernote zelf en één notitieboek. Dat notitieboek heet “Eerste Notitieboek” of “First Notebook”, afhankelijk van je taalinstellingen. Tegelijkertijd is dit je <em>standaard</em> notitieboek. Dat wil zeggen dat alles wat je naar Evernote stuurt met <a title="#Evernotecollection – Webclipper" href="http://allesonthouden.nl/evernotecollection-webclipper/">de webclipper</a>, via <a title="Hoe werkt Evernote met e-mail?" href="http://allesonthouden.nl/evernote-en-email/">e-mail</a> of anderszins in dit notitieboek komt, tenzij je een ander notitieboek opgeeft in de clipper, mailonderwerp of scripts. Dat kan slimmer...</strong>
 

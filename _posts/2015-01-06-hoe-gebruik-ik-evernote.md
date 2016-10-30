@@ -3,33 +3,8 @@ ID: 807
 post_title: Hoe gebruik ik Evernote?
 author: Frank Meeuwsen
 post_date: 2015-01-06 19:55:56
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/hoe-gebruik-ik-evernote/
 published: true
-sw_timestamp:
-  - "399955"
-bitly_link_twitter:
-  - http://bit.ly/1KMZFo5
-bitly_link_facebook:
-  - http://bit.ly/1KMZFEl
-bitly_link_linkedIn:
-  - http://bit.ly/1KMZF7j
-bitly_link_tumblr:
-  - http://bit.ly/1KMZCsb
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/01/featured_usesevernote.jpg
-sw_cache_timestamp:
-  - "408728"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/01/featured_usesevernote.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2015/01/featured_usesevernote.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410338"
 ---
 <strong>Bij vrijwel elk workshop of cursus komt het ter sprake, hoe gebruik ik Evernote eigenlijk? Ik laat vaak een deel van mijn eigen Evernote account zien in plaats van alleen een demo-account. Ik heb nu de verschillende manieren maar eens op een rij gezet.</strong>
 

@@ -5,33 +5,8 @@ post_title: >
   Evernote Windows
 author: Frank Meeuwsen
 post_date: 2014-08-28 21:20:05
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/automatisch-bestanden-importeren-in-evernote-windows/
 published: true
-sw_timestamp:
-  - "399938"
-bitly_link_twitter:
-  - http://bit.ly/1k4IRUv
-bitly_link_facebook:
-  - http://bit.ly/1k4IRUy
-bitly_link_linkedIn:
-  - http://bit.ly/1k4IOrO
-bitly_link_tumblr:
-  - http://bit.ly/1k4IQQy
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/feature_importmappenWindows.jpg
-sw_cache_timestamp:
-  - "408685"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/feature_importmappenWindows.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/08/feature_importmappenWindows.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410276"
 ---
 <strong>Evernote heeft op het Windows platform een prachtige functionaliteit die ik nog altijd erg mis op de Mac. In Evernote voor Windows geef je een Importfolder op, een specifieke folder die Evernote in de gaten blijft houden voor nieuwe bestanden. Als er nieuwe bestanden in deze folder komen dan worden ze automatisch een nieuwe Evernote notitie en optioneel wordt het bestand uit de map verwijderd. </strong>
 

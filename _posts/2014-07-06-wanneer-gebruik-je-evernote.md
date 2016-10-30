@@ -3,37 +3,8 @@ ID: 4
 post_title: Wanneer gebruik je Evernote?
 author: Frank Meeuwsen
 post_date: 2014-07-06 21:51:32
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/wanneer-gebruik-je-evernote/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399957"
-bitly_link_twitter:
-  - http://bit.ly/1JF08cK
-bitly_link_facebook:
-  - http://bit.ly/1JF06BR
-bitly_link_linkedIn:
-  - http://bit.ly/1JF06BT
-bitly_link_tumblr:
-  - http://bit.ly/1JF06S9
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/WanneerEN_featured-e1406064675679.jpg
-sw_cache_timestamp:
-  - "407630"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/WanneerEN_featured-e1406064675679.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/WanneerEN_featured-e1406064675679.jpg?fit=1280%2C518&ssl=1",1280,518,false]'
-swp_cache_timestamp:
-  - "410080"
 ---
 <strong>Als je net begint met Evernote is de vraag al snel: <em>Wanneer</em> kan ik het gebruiken? Wat mij betreft is er geen limiet in de mogelijkheden om Evernote in te zetten, anders dan je eigen verbeelding. Wil je het gebruiken als archief van je gelezen artikelen? Prima. Om je administratie in te doen? Akkoord! Als todo-app? Go for it!</strong>
 

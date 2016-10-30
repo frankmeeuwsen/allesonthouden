@@ -3,35 +3,8 @@ ID: 45
 post_title: Hoe veilig is Evernote?
 author: Frank Meeuwsen
 post_date: 2014-07-10 22:04:18
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/de-veiligheid-van-evernote/
 published: true
-sw_timestamp:
-  - "399966"
-bitly_link_twitter:
-  - http://bit.ly/1LK73EF
-bitly_link_facebook:
-  - http://bit.ly/1LK75MN
-bitly_link_linkedIn:
-  - http://bit.ly/1LK73o9
-bitly_link_tumblr:
-  - http://bit.ly/1LK75w3
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/38H-e1406142472533.jpg
-sw_cache_timestamp:
-  - "408682"
-dsq_thread_id:
-  - "5083085696"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/38H-e1406142472533.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/38H-e1406142472533.jpg?fit=800%2C277&ssl=1",800,277,false]'
-swp_cache_timestamp:
-  - "410334"
 ---
 <strong>Door Evernote te gebruiken maak je de keuze om veel informatie in één applicatie bij elkaar te zetten. Van medische informatie tot je paspoort en contracten met rekeningnummers. Hier zit een risico aan. Als de accounts van Evernote worden gehackt door kwaadwillenden is het mogelijk dat je slachtoffer wordt van identiteitsdiefstal. Dit is een realistisch scenario gezien de groeiende populariteit van Evernote en het aantal aanvallen op grote netwerken en databases met persoonlijke informatie van gebruikers. Denk dus goed na wat je in Evernote wilt opslaan en wat je wilt synchroniseren. Evernote doet er veel aan om <em>jouw</em> data veilig op te slaan en beschikbaar te stellen. Ze gaan hierbij uit van <a href="http://blog.evernote.com/2011/03/24/evernote%E2%80%99s-three-laws-of-data-protection/">drie regels</a> van dataprotectie. Welke dat zijn lees je in dit artikel.</strong>
 

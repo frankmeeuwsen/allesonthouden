@@ -3,56 +3,8 @@ ID: 758
 post_title: 'Leestekens in Evernote &#8211; Is ! beter is dan $?'
 author: Frank Meeuwsen
 post_date: 2014-12-01 10:00:17
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/leestekens-evernote/
 published: true
-nc_postLocation:
-  - default
-nc_pinterestImage:
-  - "767"
-nc_pinterestDescription:
-  - >
-    Leer met dit overzicht hoe je
-    verschillende leestekens kunt gebruiken
-    om notitieboeken en labels beter te
-    organiseren in Evernote
-nc_customTweet:
-  - >
-    Is een uitroepteken beter dan een
-    apenstaart in je Evernote notitieboek en
-    label?
-sw_timestamp:
-  - "399955"
-bitly_link_twitter:
-  - http://bit.ly/1XMXQRd
-bitly_link_facebook:
-  - http://bit.ly/1XMXQRe
-bitly_link_linkedIn:
-  - http://bit.ly/1PelRxq
-bitly_link_tumblr:
-  - http://bit.ly/1PelRxt
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/feature_leestekens.jpg
-sw_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/12/Pinterest_leestekens.jpg
-sw_cache_timestamp:
-  - "408709"
-dsq_thread_id:
-  - "5091283647"
-swp_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/12/Pinterest_leestekens.jpg
-swp_cache_timestamp:
-  - "410010"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/feature_leestekens.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/11/feature_leestekens.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Een veelgebruikte hack om je favoriete notitieboeken of labels boven in een lijst te krijgen in Evernote is het gebruik van leestekens. Veelal hebben we onze notitieboeken in alfabetische volgorde staan en het voelt prettig en comfortabel om te zien dat onze Inbox lekker bovenin de lijst staat door hem “!Inbox” te noemen. Zo komt hij niet tussen de notitieboeken “Hobby” en “Jaarevaluaties”. Maar welke leestekens kun je gebruiken en wat is de volgorde? Ik heb het voor je uitgezocht!</strong>
 

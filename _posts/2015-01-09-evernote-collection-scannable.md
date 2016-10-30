@@ -3,33 +3,8 @@ ID: 816
 post_title: '#Evernote Collection: Scannable'
 author: Frank Meeuwsen
 post_date: 2015-01-09 10:53:14
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/evernote-collection-scannable/
 published: true
-sw_timestamp:
-  - "399955"
-bitly_link_twitter:
-  - http://bit.ly/1N5HgEL
-bitly_link_facebook:
-  - http://bit.ly/1N5HifL
-bitly_link_linkedIn:
-  - http://bit.ly/1iuAbFk
-bitly_link_tumblr:
-  - http://bit.ly/1iuA9x3
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/01/featured-scannable.jpg
-sw_cache_timestamp:
-  - "408734"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/01/featured-scannable.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2015/01/featured-scannable.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410291"
 ---
 <strong>Vanaf vandaag is voor iOS gebruikers (Android volgt) een nieuwe loot aan de Evernote boom: De mobiele scanner <a href="https://evernote.com/products/scannable/">Scannable</a> is verkrijgbaar in de <a href="https://itunes.apple.com/us/app/evernote-scannable/id883338188">appstore</a>. Scannable is een mobiele scanner waarmee je alle soorten papier zoals ontvangstbewijzen, visitekaartjes, foto’s of documenten automatisch kunt scannen door met je telefoon simpelweg te richten op het papier. Er komt geen knop aan te pas. Scannable detecteert automatisch de randen van het document en legt het beeld vast. Het doel van Scannable is om actie te ondernemen met je papier, er <em>iets</em> mee te doen in plaats van het op te laten stapelen. Door het te scannen, direct in Evernote op te slaan, of direct te delen met de aanwezigen op de vergadering of bijeenkomst. </strong>
 

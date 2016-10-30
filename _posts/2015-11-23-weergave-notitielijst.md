@@ -5,51 +5,8 @@ post_title: >
   in Evernote
 author: Frank Meeuwsen
 post_date: 2015-11-23 09:20:34
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/weergave-notitielijst/
 published: true
-nc_postLocation:
-  - default
-nc_floatLocation:
-  - 'on'
-twitterID:
-  - allesonthouden
-nc_ogImage:
-  - "1068"
-nc_ogTitle:
-  - >
-    Kies je eigen weergave van je notities
-    in Evernote
-nc_ogDescription:
-  - >
-    In Evernote kun je de weergave van je
-    notitielijst zelf aanpassen. Zo heb je
-    altijd de juiste weergave om je werk
-    goed te doen.
-sw_open_thumbnail_url:
-  - ""
-bitly_link_twitter:
-  - http://bit.ly/1QZw6aj
-bitly_link_facebook:
-  - http://bit.ly/1QZw4PD
-bitly_link_linkedIn:
-  - http://bit.ly/1QZw6qB
-bitly_link_tumblr:
-  - http://bit.ly/1QZw6qC
-sw_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/11/weergaven.jpg
-sw_cache_timestamp:
-  - "408733"
-swp_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/11/weergaven.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2015/11/weergaven.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410340"
 ---
 <strong>Evernote heeft verschillende manieren om je notities te bekijken in de notitielijst. Je start standaard in een lijst waarin al je notities zichtbaar zijn. Door gebruik te maken van notitieboeken, labels of zoekopdrachten krijg je in deze kolom een wisselende lijst te zien, afhankelijk van je actie. Je kunt de notitielijst anders weergeven die je met het icoon rechtsboven de naam van je notitieboek.</strong>
 

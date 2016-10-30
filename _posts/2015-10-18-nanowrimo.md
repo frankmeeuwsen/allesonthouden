@@ -3,36 +3,8 @@ ID: 997
 post_title: 'NaNoWriMo en Evernote &#8211; Tips voor gebruik'
 author: Frank Meeuwsen
 post_date: 2015-10-18 14:02:22
-post_excerpt: ""
 layout: post
-permalink: https://allesonthouden.nl/nanowrimo/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-bitly_link:
-  - http://bit.ly/1Q1wXqu
-bitly_link_twitter:
-  - http://bit.ly/1itLv4n
-bitly_link_facebook:
-  - http://bit.ly/1itLv4o
-bitly_link_linkedIn:
-  - http://bit.ly/1itLv4p
-bitly_link_tumblr:
-  - http://bit.ly/1itLv4s
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/10/feature_Nanowrimo.png
-sw_cache_timestamp:
-  - "408680"
-swp_cache_timestamp:
-  - "410289"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/10/feature_Nanowrimo.png
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2015/10/feature_Nanowrimo.png?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <p><strong>November is online traditioneel de NaNoWriMo maand: National Novel Writing Month. Hoe kun je Evernote gebruiken om je beste werk te maken in deze maand? Ik geef je een aantal tips</strong><br/>
 

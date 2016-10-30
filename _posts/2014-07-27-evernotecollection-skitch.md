@@ -3,33 +3,8 @@ ID: 159
 post_title: '#Evernotecollection &#8211; Skitch'
 author: Frank Meeuwsen
 post_date: 2014-07-27 09:30:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/evernotecollection-skitch/
 published: true
-sw_timestamp:
-  - "399894"
-bitly_link_twitter:
-  - http://bit.ly/1I4qCch
-bitly_link_facebook:
-  - http://bit.ly/1I4qCci
-bitly_link_linkedIn:
-  - http://bit.ly/1ME8J5W
-bitly_link_tumblr:
-  - http://bit.ly/1ME8J5X
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/tumblr_n8zm1wVHz11st5lhmo1_1280.jpg
-sw_cache_timestamp:
-  - "408667"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/tumblr_n8zm1wVHz11st5lhmo1_1280.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/tumblr_n8zm1wVHz11st5lhmo1_1280.jpg?fit=1280%2C854&ssl=1",1280,854,false]'
-swp_cache_timestamp:
-  - "410313"
 ---
 <strong>We zijn visueel ingesteld. Plaatjes werken vaak beter én sneller dan woorden. Met Skitch breng je je ideeën heel snel over het voetlicht door aan een foto, screenshot of PDF je opmerkingen toe te voegen. Met vormen en pijlen geef je aandacht aan wat er toe. Skitch is zowel losstaand te gebruiken als geïntegreerd in Evernote.</strong>
 

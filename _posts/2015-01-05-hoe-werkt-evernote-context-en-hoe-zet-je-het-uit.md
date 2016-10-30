@@ -5,35 +5,8 @@ post_title: >
   je het uit)?
 author: Frank Meeuwsen
 post_date: 2015-01-05 10:00:13
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/hoe-werkt-evernote-context-en-hoe-zet-je-het-uit/
 published: true
-sw_timestamp:
-  - "399955"
-bitly_link_twitter:
-  - http://bit.ly/1H4FjvG
-bitly_link_facebook:
-  - http://bit.ly/1H4FjvK
-bitly_link_linkedIn:
-  - http://bit.ly/1H4FjvO
-bitly_link_tumblr:
-  - http://bit.ly/1H4FjvP
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/01/feature-contextfaq.jpg
-sw_cache_timestamp:
-  - "408683"
-dsq_thread_id:
-  - "5084927549"
-swp_cache_timestamp:
-  - "410061"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/01/feature-contextfaq.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2015/01/feature-contextfaq.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Tijdens de EC4 conferentie kondigde CEO Phil Libin een nieuwe functionaliteit aan in Evernote, Context. Het geeft je een extra laag informatie aan de notities waar je in werkt. Het <em>grotere</em> doel van Evernote is om de kwaliteit van je werk te verbeteren, zonder er zelf bij na te moeten denken of je nog extra informatie nodig hebt.</strong>
 <!--more-->

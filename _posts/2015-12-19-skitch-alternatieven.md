@@ -3,39 +3,8 @@ ID: 1077
 post_title: Alternatieven voor Skitch (Windows)
 author: Frank Meeuwsen
 post_date: 2015-12-19 22:18:27
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/skitch-alternatieven/
 published: true
-nc_postLocation:
-  - default
-nc_floatLocation:
-  - 'on'
-twitterID:
-  - allesonthouden
-bitly_link_twitter:
-  - http://bit.ly/1mtLHmS
-bitly_link_facebook:
-  - http://bit.ly/1mtLHn0
-bitly_link_linkedIn:
-  - http://bit.ly/1mtLEYh
-bitly_link_tumblr:
-  - http://bit.ly/1mtLHn5
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/12/pencil-case-932143_1280.jpg
-sw_cache_timestamp:
-  - "408728"
-dsq_thread_id:
-  - "5083880505"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/12/pencil-case-932143_1280.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2015/12/pencil-case-932143_1280.jpg?fit=1280%2C799&ssl=1",1280,799,false]'
-swp_cache_timestamp:
-  - "410340"
 ---
 <strong>Afgelopen vrijdag maakte Evernote bekend dat ze per 22 januari stoppen met de Pebble-app, de Clearly-extensie en het screenshot- en anotatieprogramma Skitch op Windows, iOS en Android. Wat zijn op het Windows platform prima alternatieven voor Skitch? Ik legde er een paar naast elkaar.</strong>
 

@@ -5,37 +5,8 @@ post_title: >
   Evernote (OSX)
 author: Frank Meeuwsen
 post_date: 2014-07-31 09:15:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/importeer-in-osx/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399948"
-bitly_link_twitter:
-  - http://bit.ly/1iYIHwq
-bitly_link_facebook:
-  - http://bit.ly/1iYIHwt
-bitly_link_linkedIn:
-  - http://bit.ly/1MAcnOo
-bitly_link_tumblr:
-  - http://bit.ly/1MAcnOp
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_Watchfolder.jpg
-sw_cache_timestamp:
-  - "408715"
-swp_cache_timestamp:
-  - "410131"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_Watchfolder.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/Featured_Watchfolder.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Evernote is redelijk onverschillig hóe je er iets instopt. Je kunt het zelf intypen, er in slepen, naar mailen, automatiseren of via foto’s en scans importeren. Een mooie functionaliteit op Evernote voor Windows is de mogelijkheid om een specifieke folder op je computer te monitoren en nieuwe bestanden die je er in zet automatisch in Evernote te importeren. Helaas mist dat voor de Mac. Dat moest toch op te lossen zijn…</strong>
 

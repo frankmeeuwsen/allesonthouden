@@ -3,47 +3,8 @@ ID: 915
 post_title: Hoe versleutel je notities?
 author: Frank Meeuwsen
 post_date: 2015-08-03 09:00:30
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/beveilig-evernote-notities/
 published: true
-nc_postLocation:
-  - default
-nc_ogImage:
-  - "930"
-nc_ogTitle:
-  - Hoe versleutel je notities in Evernote?
-nc_ogDescription:
-  - >
-    Met een paar handige stappen kun je in
-    Evernote notities beter beveiligen. Je
-    kunt zo specifieke teksten in een
-    notitie extra versleutelen.
-sw_timestamp:
-  - "399956"
-bitly_link:
-  - http://bit.ly/1Q1wNiX
-bitly_link_twitter:
-  - http://bit.ly/1Q1xwAr
-bitly_link_facebook:
-  - http://bit.ly/1iuGGrN
-bitly_link_linkedIn:
-  - http://bit.ly/1iuGGb7
-bitly_link_tumblr:
-  - http://bit.ly/1iuGGb8
-sw_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/08/socialimage_encryptie.png
-sw_cache_timestamp:
-  - "408730"
-swp_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/08/socialimage_encryptie.png
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2015/08/socialimage_encryptie.png?fit=1920%2C1080&ssl=1",1920,1080,false]'
-swp_cache_timestamp:
-  - "410319"
 ---
 <strong>Evernote is je persoonlijke Google. Je privé databank vol met kennis over je leven, je werk en je hobbies. Om goed gebruik te maken van alle mogelijkheden zijn de notities standaard niet versleuteld. Dat betekent dat je ze altijd op elk apparaat direct kunt lezen. Dat is niet altijd wenselijk. Ondanks alle veiligheidsmaatregelen van Evernote wil je toch nog een extra encryptielaag op je informatie. Dat is mogelijk op notitieniveau op je desktop.</strong>
 

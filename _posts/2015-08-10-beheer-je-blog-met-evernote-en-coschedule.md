@@ -5,43 +5,8 @@ post_title: >
   CoSchedule
 author: Frank Meeuwsen
 post_date: 2015-08-10 08:58:24
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/beheer-je-blog-met-evernote-en-coschedule/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-nc_ogImage:
-  - "958"
-sw_timestamp:
-  - "399964"
-bitly_link:
-  - http://bit.ly/1Q1wOmV
-bitly_link_twitter:
-  - http://bit.ly/1Q1xxVf
-bitly_link_facebook:
-  - http://bit.ly/1MgM8uh
-bitly_link_linkedIn:
-  - http://bit.ly/1WoqwTt
-bitly_link_tumblr:
-  - http://bit.ly/1Woqx9M
-sw_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/08/socialimage_coschedule.png
-sw_cache_timestamp:
-  - "408127"
-dsq_thread_id:
-  - "5084811364"
-swp_cache_timestamp:
-  - "409919"
-swp_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/08/socialimage_coschedule.png
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2015/08/socialimage_coschedule.png?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Hoe zou jij het vinden om je blogteksten te beheren in je favoriete digitale notitieboek en een directe koppeling te kunnen maken met je Wordpress blog én je sociale kanalen? Met de Wordpress plugin en webdienst CoSchedule is dat nu mogelijk. Ik heb het getest, ben enthousiast over de dienst maar nog niet 100% overtuigd over de Evernote koppeling. Lees zelf maar waarom...</strong>
 

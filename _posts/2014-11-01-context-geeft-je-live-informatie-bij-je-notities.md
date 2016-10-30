@@ -5,33 +5,8 @@ post_title: >
   notities
 author: Frank Meeuwsen
 post_date: 2014-11-01 01:49:41
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/context-geeft-je-live-informatie-bij-je-notities/
 published: true
-sw_timestamp:
-  - "399938"
-bitly_link_twitter:
-  - http://bit.ly/1k8iaOU
-bitly_link_facebook:
-  - http://bit.ly/1k8i8X5
-bitly_link_linkedIn:
-  - http://bit.ly/1M61u1c
-bitly_link_tumblr:
-  - http://bit.ly/1M61u1f
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/feature_context.jpg
-sw_cache_timestamp:
-  - "407584"
-swp_cache_timestamp:
-  - "410200"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/feature_context.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/11/feature_context.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Vandaag is Evernote begonnen met de uitrol van hun nieuwe versie over de verschillende systemen én abonnementsvormen. De drie belangrijkste wijzigingen zijn de vernieuwde Presentatiemodus, Context in je gerelateerde notities en de langverwachte Work Chat. In drie artikelen zal ik de nieuwe mogelijkheden uitleggen.</strong>
 

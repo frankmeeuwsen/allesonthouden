@@ -3,33 +3,8 @@ ID: 719
 post_title: Presenteren in Evernote vernieuwd
 author: Frank Meeuwsen
 post_date: 2014-11-01 00:30:12
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/presenteren-evernote-vernieuwd/
 published: true
-sw_timestamp:
-  - "399952"
-bitly_link_twitter:
-  - http://bit.ly/1k8hU2o
-bitly_link_facebook:
-  - http://bit.ly/1k8hU2r
-bitly_link_linkedIn:
-  - http://bit.ly/1k8hRDH
-bitly_link_tumblr:
-  - http://bit.ly/1k8hUiE
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/feature_presentationmodus.jpg
-sw_cache_timestamp:
-  - "408683"
-swp_cache_timestamp:
-  - "409676"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/feature_presentationmodus.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/11/feature_presentationmodus.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Vandaag is Evernote begonnen met de uitrol van hun nieuwe versie over de verschillende systemen én abonnementsvormen. De drie belangrijkste wijzigingen zijn de vernieuwde Presentatiemodus, Context in je gerelateerde notities en de langverwachte Work Chat. In drie artikelen zal ik de nieuwe mogelijkheden uitleggen.</strong>
 

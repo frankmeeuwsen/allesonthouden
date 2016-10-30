@@ -5,65 +5,8 @@ post_title: >
   notities
 author: Frank Meeuwsen
 post_date: 2015-08-24 08:58:08
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/notitielinks-verbinden-je-essentiele-notities/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-nc_ogImage:
-  - "969"
-nc_pinterestImage:
-  - "970"
-nc_ogTitle:
-  - >
-    Hoe notitielinks je helpen in de
-    organisatie van Evernote.
-nc_ogDescription:
-  - >
-    Met notitielinks kun je heel snel en
-    makkelijk je notities aan elkaar knopen.
-    Handig voor je organisatie en snelle
-    navigatie!
-nc_pinterestDescription:
-  - >
-    Hoe notitielinks je helpen in de
-    organisatie van Evernote.
-nc_customTweet:
-  - >
-    Hoe notitielinks je helpen in de
-    organisatie van Evernote.
-bitly_link_twitter:
-  - http://bit.ly/1XI4M29
-bitly_link_facebook:
-  - http://bit.ly/1XI4Mio
-bitly_link_linkedIn:
-  - http://bit.ly/1KN422g
-bitly_link_tumblr:
-  - http://bit.ly/1KN41vg
-sw_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/08/Banner_Canva_notitielinks.jpg
-sw_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/08/Pinterest_Canva_notitielinks.png
-sw_cache_timestamp:
-  - "408632"
-dsq_thread_id:
-  - "5080909718"
-swp_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/08/Banner_Canva_notitielinks.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2015/08/Banner_Canva_notitielinks.jpg?fit=1024%2C512&ssl=1",1024,512,false]'
-swp_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/08/Pinterest_Canva_notitielinks.png
-swp_cache_timestamp:
-  - "410289"
 ---
 <strong>Het Internet is groot geworden door één simpele regel: Alle links zijn gelijk. Doordat het mogelijk werd om documenten en pagina's aan elkaar te linken op een relatief eenvoudige en eenduidige manier, konden we kennis en informatie beter ontsluiten.
 In Evernote is dat niet veel anders. Individuele notities hebben eigen links die zowel binnen als buiten Evernote zijn te gebruiken. Daarnaast kun je in Evernote nog altijd naar "buiten" linken, naar een webpagina.</strong>

@@ -3,39 +3,8 @@ ID: 156
 post_title: Hoe werkt Evernote met e-mail?
 author: Frank Meeuwsen
 post_date: 2014-07-22 09:30:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/evernote-en-email/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399954"
-bitly_link:
-  - http://bit.ly/1Q1wNzi
-bitly_link_twitter:
-  - http://bit.ly/1Q1xybz
-bitly_link_facebook:
-  - http://bit.ly/1KN111X
-bitly_link_linkedIn:
-  - http://bit.ly/1KN12mw
-bitly_link_tumblr:
-  - http://bit.ly/1KN111Z
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Feature_e-mail1.jpg
-sw_cache_timestamp:
-  - "408740"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Feature_e-mail1.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/Feature_e-mail1.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410338"
 ---
 <strong>Een ondergewaardeerd onderdeel van Evernote vind ik e-mail. Veel wordt gesproken over de webclipper en de manier waarop Evernote PDF’s en Word documenten kan organiseren en doorzoekbaar maken. Maar in de dagelijkse praktijk zie je nog steeds dat kennis en inzichten verborgen blijven in e-mailconversaties op de werkvloer. Met je eigen Evernote mailaccount kun je deze snel en eenvoudig opslaan in Evernote. Hier wordt elke mail een notitie met een eigen titel, de tekst en de bijlagen die in de originele mail zitten.</strong>
 

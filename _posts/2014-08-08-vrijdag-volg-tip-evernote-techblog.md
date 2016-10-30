@@ -3,39 +3,8 @@ ID: 157
 post_title: 'Vrijdag Volg Tip &#8211; Evernote Techblog'
 author: Frank Meeuwsen
 post_date: 2014-08-08 09:30:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/vrijdag-volg-tip-evernote-techblog/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399904"
-bitly_link:
-  - http://bit.ly/1Q1wNzg
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Banner_VVT_EvernoteTechblog1.jpg
-bitly_link_twitter:
-  - http://bit.ly/1Q1xwAv
-bitly_link_facebook:
-  - http://bit.ly/20vrmfP
-bitly_link_linkedIn:
-  - http://bit.ly/1k8lmKn
-bitly_link_tumblr:
-  - http://bit.ly/1k8lmKo
-sw_cache_timestamp:
-  - "403891"
-swp_cache_timestamp:
-  - "408864"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Banner_VVT_EvernoteTechblog1.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/08/Banner_VVT_EvernoteTechblog1.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Op vrijdag krijg je een tip van me voor een website die over Evernote gaat en de moeite waard is om te volgen. De Evernote community groeit steeds groter en er komen meer interessante plekken bij met scripts, tips en inspiratie om Evernote te gebruiken. Ik laat je graag zien wat er nog meer is te vinden op het web rondom Evernote!</strong>
 

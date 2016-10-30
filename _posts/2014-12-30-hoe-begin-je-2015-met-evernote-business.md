@@ -3,35 +3,8 @@ ID: 787
 post_title: Hoe begin je 2015 met Evernote Business?
 author: Frank Meeuwsen
 post_date: 2014-12-30 23:49:57
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/hoe-begin-je-2015-met-evernote-business/
 published: true
-sw_timestamp:
-  - "399961"
-bitly_link_twitter:
-  - http://bit.ly/1NuBooE
-bitly_link_facebook:
-  - http://bit.ly/1NuBoFh
-bitly_link_linkedIn:
-  - http://bit.ly/1k4GctY
-bitly_link_tumblr:
-  - http://bit.ly/1k4Gf9d
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/12/banner_2015.jpg
-sw_cache_timestamp:
-  - "408611"
-dsq_thread_id:
-  - "5085857514"
-swp_cache_timestamp:
-  - "410037"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/12/banner_2015.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/12/banner_2015.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>De overstap van Evernote (Premium) naar Evernote Business is niet zo verschrikkelijk groot als je zou denken. Sterker nog, je kunt in je eigen vertrouwde Evernote blijven werken, je krijgt er een extra Evernote bij. Als je besluit om met een projectteam of je bedrijf te starten met Evernote Business in 2015, dan is de vraag natuurlijk: En nu? Hoe beginnen we dan? Wat zijn de eerste stappen? Om je wat op weg te helpen geef ik je een paar suggesties, verdeeld over thema&#8217;s die veel in kantooromgevingen voorkomen.</strong></p>
 

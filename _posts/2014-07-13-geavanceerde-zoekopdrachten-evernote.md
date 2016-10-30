@@ -3,33 +3,8 @@ ID: 53
 post_title: Geavanceerde zoekopdrachten in Evernote
 author: Frank Meeuwsen
 post_date: 2014-07-13 22:38:31
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/geavanceerde-zoekopdrachten-evernote/
 published: true
-sw_timestamp:
-  - "399943"
-bitly_link_twitter:
-  - http://bit.ly/1RoE3nf
-bitly_link_facebook:
-  - http://bit.ly/1RoE3ni
-bitly_link_linkedIn:
-  - http://bit.ly/1RoE3nj
-bitly_link_tumblr:
-  - http://bit.ly/1RoE0YT
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_search.jpg
-sw_cache_timestamp:
-  - "408692"
-swp_cache_timestamp:
-  - "410289"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_search.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/Featured_search.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Het zoekvenster in Evernote is een kleine krachtpatser die je misschien wat meer kunt uitdagen dan je zou denken. Je hebt inmiddels genoeg notities in Evernote zitten, nu is het tijd om de juiste kennis op het juiste moment er weer uit te krijgen. Natuurlijk kun je zoeken op trefwoorden, maar de zoekmogelijkheden zijn robuuster dan dat. Hier zijn een paar zoekmogelijkheden die je echt eens moet proberen.</strong> <!--more--> Je kunt in Evernote zoeken in:
 

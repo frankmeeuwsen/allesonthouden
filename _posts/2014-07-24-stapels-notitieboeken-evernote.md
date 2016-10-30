@@ -3,33 +3,8 @@ ID: 293
 post_title: Stapels notitieboeken in Evernote
 author: Frank Meeuwsen
 post_date: 2014-07-24 11:15:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/stapels-notitieboeken-evernote/
 published: true
-sw_timestamp:
-  - "399951"
-bitly_link_twitter:
-  - http://bit.ly/1l68Ta8
-bitly_link_facebook:
-  - http://bit.ly/1l68Riu
-bitly_link_linkedIn:
-  - http://bit.ly/1OinfAC
-bitly_link_tumblr:
-  - http://bit.ly/1OinfAD
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_stapels.jpg
-sw_cache_timestamp:
-  - "408644"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_stapels.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/Featured_stapels.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410320"
 ---
 <strong>Hoe zeer we ook verder digitaliseren, we blijven altijd verknocht aan bestaande principes die we uit de echte wereld kennen. Zo heb je vast wel eens een stapel van papieren, rekeningen, tijdschriften gemaakt die bij elkaar horen. Omdat ze bij hetzelfde project horen, hetzelfde thema hebben of omdat ze van iemand in je gezin zijn. Zo’n stapel geeft je overzicht in de berg informatie die je om je heen verzamelt.</strong>
 <!--more-->

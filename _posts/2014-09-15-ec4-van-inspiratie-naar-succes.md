@@ -3,31 +3,8 @@ ID: 639
 post_title: 'EC4 &#8211; van inspiratie naar succes'
 author: Frank Meeuwsen
 post_date: 2014-09-15 09:44:41
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/ec4-van-inspiratie-naar-succes/
 published: true
-sw_timestamp:
-  - "399960"
-bitly_link_twitter:
-  - http://bit.ly/1NRlCsP
-bitly_link_facebook:
-  - http://bit.ly/1NRlEAT
-bitly_link_linkedIn:
-  - http://bit.ly/1SfsJe0
-bitly_link_tumblr:
-  - http://bit.ly/1SfsJe1
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/featured_ec4.jpg
-sw_cache_timestamp:
-  - "401926"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/featured_ec4.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/09/featured_ec4.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Op 2 en 3 oktober vindt voor de vierde keer de Evernote conferentie plaats in San Francisco. 2 Dagen lang zullen sprekers, ambassadeurs, ontwikkelaars, ondernemers en fans elkaar ontmoeten in Fort Mason en met elkaar nieuwe plannen smeden over en met Evernote.</strong>
 <!--more-->

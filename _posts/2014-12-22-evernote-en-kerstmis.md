@@ -3,31 +3,8 @@ ID: 781
 post_title: Evernote en Kerstmis
 author: Frank Meeuwsen
 post_date: 2014-12-22 22:55:39
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/evernote-en-kerstmis/
 published: true
-sw_timestamp:
-  - "399958"
-bitly_link_twitter:
-  - http://bit.ly/1NsEL3M
-bitly_link_facebook:
-  - http://bit.ly/1NsEJZR
-bitly_link_linkedIn:
-  - http://bit.ly/1l69aKl
-bitly_link_tumblr:
-  - http://bit.ly/1l69cBO
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/12/featured_feestdagen.jpg
-sw_cache_timestamp:
-  - "408539"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/12/featured_feestdagen.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/12/featured_feestdagen.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Natuurlijk kun je Evernote prima gebruiken vóór en na de feestdagen in december. Met name voor planning, ideeën en het afvinken van je taken alvorens je in je nette outfit aan tafel schuift met vrienden, familie en/of geliefden. Ik laat jullie graag zien hoe ik het afgelopen jaar Evernote heb gebruikt om er in de afgelopen dagen veel plezier en resultaat uit te halen. De gouden tl;dr-tip: Maak nu al een notitieboek of label “kerstmis” en begin met verzamelen!</strong>
 <!--more-->

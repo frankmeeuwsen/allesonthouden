@@ -3,37 +3,8 @@ ID: 649
 post_title: Evernote widgets en extensies in iOS 8
 author: Frank Meeuwsen
 post_date: 2014-09-19 00:24:51
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/ios8-evernote-widgets-en-extensies/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399966"
-bitly_link_twitter:
-  - http://bit.ly/20z79ql
-bitly_link_facebook:
-  - http://bit.ly/20z7b1i
-bitly_link_linkedIn:
-  - http://bit.ly/1LK6XwH
-bitly_link_tumblr:
-  - http://bit.ly/1LK6XwI
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/feature_ios8.jpg
-sw_cache_timestamp:
-  - "408185"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/feature_ios8.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/09/feature_ios8.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410127"
 ---
 <strong>Even een webpagine opslaan in Evernote was altijd knap lastig op je iPhone of iPad. Er zijn allerlei extra apps in het Apple ecosysteem die je helpen om makkelijker een interessante webpagina op te slaan. Dat is met de komst van iOS 8 veranderd. Evernote heeft eindelijk zijn eigen <em>native</em> webclipper met een prima ervaring in je mobiele browser.</strong>
 

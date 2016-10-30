@@ -3,39 +3,8 @@ ID: 583
 post_title: Hoe beveilig je Evernote?
 author: Frank Meeuwsen
 post_date: 2014-09-03 00:00:35
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/hoe-beveilig-je-evernote/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399947"
-bitly_link:
-  - http://bit.ly/1Q1wOmZ
-bitly_link_twitter:
-  - http://bit.ly/1Q1xwAu
-bitly_link_facebook:
-  - http://bit.ly/1kiW6Ar
-bitly_link_linkedIn:
-  - http://bit.ly/1kiW5fK
-bitly_link_tumblr:
-  - http://bit.ly/1kiW63z
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/Featured_TFA.jpg
-sw_cache_timestamp:
-  - "408741"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/Featured_TFA.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/09/Featured_TFA.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410337"
 ---
 <strong>Het aantal hacks bij clouddiensten zijn niet meer te tellen. Elke clouddienst ligt wel eens onder vuur en we krijgen vanzelf via de media te horen wanneer het weer mis gaat. Zoals de privéfoto’s van actrices die nu op straat liggen. Maar hoe zit dat met Evernote? Hoe goed is Evernote beveiligd en wat kun jij zelf doen om de beveiliging van jouw notities optimaal te maken? Van een goed wachtwoord naar Twee Factor Authenticatie. Ik leg het je uit.</strong> <!--more-->
 <h2 id="goedwachtwoord">Goed wachtwoord</h2>

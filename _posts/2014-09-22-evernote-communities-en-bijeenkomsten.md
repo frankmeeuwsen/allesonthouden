@@ -3,35 +3,8 @@ ID: 668
 post_title: Evernote communities en bijeenkomsten
 author: Frank Meeuwsen
 post_date: 2014-09-22 22:34:50
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/evernote-communities-en-bijeenkomsten/
 published: true
-sw_timestamp:
-  - "399950"
-bitly_link:
-  - http://bit.ly/1Q1x7Oz
-bitly_link_twitter:
-  - http://bit.ly/1HLbBGS
-bitly_link_facebook:
-  - http://bit.ly/1HLbBGT
-bitly_link_linkedIn:
-  - http://bit.ly/1HLbBGW
-bitly_link_tumblr:
-  - http://bit.ly/1HLbBGZ
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/Featured_community.jpg
-sw_cache_timestamp:
-  - "408517"
-swp_cache_timestamp:
-  - "409723"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/Featured_community.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/09/Featured_community.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Er zijn op het web een flink aantal bronnen te vinden om meer te leren en te weten over Evernote. Veel blogs natuurlijk, maar er zijn zeker een paar leuke en interessante communities waar je terecht kunt met je vragen en problemen rondom Evernote. Een overzicht van de groepen in Nederland.</strong>
 

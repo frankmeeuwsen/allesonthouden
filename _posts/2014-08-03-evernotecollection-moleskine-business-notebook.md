@@ -3,37 +3,8 @@ ID: 160
 post_title: '#evernotecollection &#8211; Moleskine Business Notebook'
 author: Frank Meeuwsen
 post_date: 2014-08-03 09:30:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/evernotecollection-moleskine-business-notebook/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399927"
-bitly_link_twitter:
-  - http://bit.ly/1S2vJtZ
-bitly_link_facebook:
-  - http://bit.ly/1S2vJKe
-bitly_link_linkedIn:
-  - http://bit.ly/1S2vJKf
-bitly_link_tumblr:
-  - http://bit.ly/1S2vH5b
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_Moleskine.jpg
-sw_cache_timestamp:
-  - "408727"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_Moleskine.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/08/Featured_Moleskine.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410339"
 ---
 <strong>Schrijven op papier gaat voorlopig niet weg. Soms gaat er niets boven snel wat aantekeningen maken op papier, een snelle schets te maken of even een lijstje samen te stellen met pen en papier. Evernote CEO Phil Libin heeft dat al eerder erkend en ze hebben daar een prima oplossing voor. Samen met Moleskine heeft Evernote een serie prachtige notitieboeken gemaakt voor de schrijvers onder ons. In deze #evernotecollection neem ik de Evernote Business Notebook onder de loep, maar Moleskine heeft een complete serie aan notitieboeken die de moeite waard zijn.</strong>
 

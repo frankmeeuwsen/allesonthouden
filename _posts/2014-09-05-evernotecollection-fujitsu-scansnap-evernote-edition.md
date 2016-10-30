@@ -3,41 +3,8 @@ ID: 609
 post_title: '#Evernotecollection &#8211; Fujitsu Scansnap Evernote Edition'
 author: Frank Meeuwsen
 post_date: 2014-09-05 22:52:32
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/evernotecollection-fujitsu-scansnap-evernote-edition/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-sw_timestamp:
-  - "399956"
-bitly_link:
-  - http://bit.ly/1Q1wOmY
-nc_floatLocation:
-  - 'on'
-bitly_link_twitter:
-  - http://bit.ly/1Q1xybv
-bitly_link_facebook:
-  - http://bit.ly/1N5Ij7D
-bitly_link_linkedIn:
-  - http://bit.ly/1GV6sRA
-bitly_link_tumblr:
-  - http://bit.ly/1GV6t7Q
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/Featured_scansnap1.jpg
-sw_cache_timestamp:
-  - "408708"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/09/Featured_scansnap1.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/09/Featured_scansnap1.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410337"
 ---
 <strong>Papierloos werken komt steeds dichterbij. Het afgelopen jaar heb ik vrijwel nooit meer een papieren dossier van een project bij me. Dat komt mede door mijn onophoudelijke scannen van alles wat papier is en de organisatie in Evernote. Hierdoor heb ik alles wat voor mij van belang is, in Evernote staan en kan ik het weer terugvinden als ik het nodig heb. Facturen, bonnetjes, polissen, correspondentie, het gaat allemaal in Evernote en de papieren versies gaan in een archiefmap. Met de Fujitsu ScanSnap Evernote Edition is dit proces een stuk makkelijker geworden. Of valt dat wel mee? Een persoonlijke review.</strong>
 

@@ -3,51 +3,8 @@ ID: 981
 post_title: Notities samenvoegen in Evernote
 author: Frank Meeuwsen
 post_date: 2015-09-02 23:08:34
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/notities-samenvoegen-in-evernote/
 published: true
-nc_postLocation:
-  - default
-twitterID:
-  - allesonthouden
-nc_ogImage:
-  - "985"
-nc_ogTitle:
-  - >
-    Notities samenvoegen in Evernote geeft
-    je overzicht
-nc_ogDescription:
-  - >
-    In Evernote kun je notities samenvoegen
-    tot één nieuwe notitie. Zo krijg je
-    direct een beter overzicht van je
-    project, inspiratie of administratie.
-nc_customTweet:
-  - 'Evernote tip: Selecteer notities, klik op Samenvoegen en je hebt direct een beter overzicht. '
-bitly_link_twitter:
-  - http://bit.ly/1XI2HDg
-bitly_link_facebook:
-  - http://bit.ly/1XI2HDh
-bitly_link_linkedIn:
-  - http://bit.ly/1XI2IXK
-bitly_link_tumblr:
-  - http://bit.ly/1XI2HDk
-sw_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/09/banner_SamenvoegenNotities.png
-sw_cache_timestamp:
-  - "408656"
-dsq_thread_id:
-  - "5080906899"
-swp_open_graph_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2015/09/banner_SamenvoegenNotities.png
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2015/09/banner_SamenvoegenNotities.png?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410341"
 ---
 <strong>Als ik de post van de afgelopen week inscan heb ik veel nieuwe notities met documenten die horen bij bestaande zaken in mijn administratie. In plaats van losse notities te organiseren, wil ik zoveel mogelijk bij elkaar houden. Daarvoor gebruik onder andere de mogelijkheid om notities samen te voegen in Evernote.</strong>
 <!--more-->

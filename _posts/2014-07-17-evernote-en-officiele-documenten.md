@@ -3,33 +3,8 @@ ID: 41
 post_title: Evernote en officiële documenten
 author: Frank Meeuwsen
 post_date: 2014-07-17 22:01:39
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/evernote-en-officiele-documenten/
 published: true
-sw_timestamp:
-  - "399947"
-bitly_link_twitter:
-  - http://bit.ly/1KSI1iO
-bitly_link_facebook:
-  - http://bit.ly/1KSI2mI
-bitly_link_linkedIn:
-  - http://bit.ly/1KSI1z5
-bitly_link_tumblr:
-  - http://bit.ly/1KSI1z6
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_officieel.jpg
-sw_cache_timestamp:
-  - "408705"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_officieel.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/Featured_officieel.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410275"
 ---
 <strong>Evernote is ideaal om een backup te maken van officiële documenten. Je weet maar nooit wanneer je je paspoort, geboortecertificaat, btw-nummer, KvK-uitreksel of contract nodig hebt om te overleggen in een gesprek. Hoe kun je dit nu slim aanpakken? En moet je werkelijk <em>alles</em> inscannen aan officiële documenten? In dit artikel geef ik je een aantal tips hoe je op een veilige en <em>bewuste</em> manier officiële documenten kunt gebruiken in Evernote.</strong>
 

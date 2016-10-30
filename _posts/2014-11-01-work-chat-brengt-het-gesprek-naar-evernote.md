@@ -5,43 +5,8 @@ post_title: >
   Evernote
 author: Frank Meeuwsen
 post_date: 2014-11-01 01:50:29
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/work-chat-brengt-het-gesprek-naar-evernote/
 published: true
-nc_postLocation:
-  - default
-nc_pinterestImage:
-  - "731"
-sw_timestamp:
-  - "399965"
-bitly_link_twitter:
-  - http://bit.ly/1l9V36F
-bitly_link_facebook:
-  - http://bit.ly/1l9V36G
-bitly_link_linkedIn:
-  - http://bit.ly/1KN8Fta
-bitly_link_tumblr:
-  - http://bit.ly/1KN8D4J
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/feature_Workchat.jpg
-sw_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/banner_Workchat.jpg
-sw_cache_timestamp:
-  - "408214"
-swp_pinterest_image_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/banner_Workchat.jpg
-swp_cache_timestamp:
-  - "410048"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/11/feature_Workchat.jpg
-swp_open_graph_image_data:
-  - '["https://i2.wp.com/allesonthouden.nl/wp-content/uploads/2014/11/feature_Workchat.jpg?fit=800%2C400&ssl=1",800,400,false]'
 ---
 <strong>Vandaag is Evernote begonnen met de uitrol van hun nieuwe versie over de verschillende systemen én abonnementsvormen. De drie belangrijkste wijzigingen zijn de vernieuwde Presentatiemodus, Context in je gerelateerde notities en de langverwachte Work Chat. In drie artikelen zal ik de nieuwe mogelijkheden uitleggen.</strong>
 

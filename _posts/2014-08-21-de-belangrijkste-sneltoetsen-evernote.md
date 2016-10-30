@@ -3,35 +3,8 @@ ID: 150
 post_title: De belangrijkste sneltoetsen in Evernote
 author: Frank Meeuwsen
 post_date: 2014-08-21 09:15:00
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/de-belangrijkste-sneltoetsen-evernote/
 published: true
-sw_timestamp:
-  - "399961"
-bitly_link_twitter:
-  - http://bit.ly/1iuCZC9
-bitly_link_facebook:
-  - http://bit.ly/1iuCYhy
-bitly_link_linkedIn:
-  - http://bit.ly/1iuCXKI
-bitly_link_tumblr:
-  - http://bit.ly/1iuCXKL
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_Shortcuts.jpg
-sw_cache_timestamp:
-  - "408728"
-dsq_thread_id:
-  - "5098809903"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/08/Featured_Shortcuts.jpg
-swp_open_graph_image_data:
-  - '["https://i1.wp.com/allesonthouden.nl/wp-content/uploads/2014/08/Featured_Shortcuts.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410291"
 ---
 <strong>Wil je écht productief werken en meters maken achter je toetsenbord, dan is er één oplossing die je echt de snelheid geeft die je nodig hebt. Dat heeft niets te maken met het soort software, het staat los van je besturingssysteem. Het voelt aan alsof je terug gaat in de tijd. Toen alles nog in DOS gebeurde op de commandoline. Waarbij je veel moest onthouden. Maar geloof me, na een aantal jaar ben ik er van overtuigd dat er maar één echte winstpakker is als je <em>in the flow</em> wilt werken en dat is het gebruik van sneltoetsen.</strong>
 

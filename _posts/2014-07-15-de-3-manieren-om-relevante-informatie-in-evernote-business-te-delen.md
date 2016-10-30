@@ -5,33 +5,8 @@ post_title: >
   Evernote Business te delen
 author: Frank Meeuwsen
 post_date: 2014-07-15 22:00:20
-post_excerpt: ""
 layout: post
-permalink: >
-  https://allesonthouden.nl/de-3-manieren-om-relevante-informatie-in-evernote-business-te-delen/
 published: true
-sw_timestamp:
-  - "399961"
-bitly_link_twitter:
-  - http://bit.ly/1KSLXjw
-bitly_link_facebook:
-  - http://bit.ly/1KSLXjx
-bitly_link_linkedIn:
-  - http://bit.ly/1KSLZId
-bitly_link_tumblr:
-  - http://bit.ly/1KSLZIe
-sw_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_delen.jpg
-sw_cache_timestamp:
-  - "408646"
-swp_open_thumbnail_url:
-  - >
-    https://allesonthouden.nl/wp-content/uploads/2014/07/Featured_delen.jpg
-swp_open_graph_image_data:
-  - '["https://i0.wp.com/allesonthouden.nl/wp-content/uploads/2014/07/Featured_delen.jpg?fit=800%2C400&ssl=1",800,400,false]'
-swp_cache_timestamp:
-  - "410262"
 ---
 <strong>Je zou denken dat <a href="http://evernote.com/business">Evernote Business</a> alleen bedoeld is om kennis met je collega’s en de rest van het bedrijf te delen. Alsof het een soort intranet is. Maar niets is minder waar. Sterker nog, je kunt Evernote Business prima gebruiken als een privé-zakelijke kennisbank, waarmee je notitieboeken en notities maakt die wel professioneel van aard zijn, maar je niet direct met iedereen deelt.</strong>
 
