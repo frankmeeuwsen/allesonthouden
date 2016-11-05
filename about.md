@@ -19,3 +19,5 @@ Ik heb mijn volledige site uit Wordpress gehaald en omgezet naar deze structuur.
 3. Ik heb nu geen https meer. Ik moet nog even uitvogelen hoe dat zit en of het echt nodig is.
 3. De artikeltitels op de homepage zijn nog niet zoals ik wil. Dat is iets in het [template](http://hyde.getpoole.com/).
 6. En mocht het me ooit lukken, dan wil ik toch wel een andere template. Maar dat kost tijd en energie die ik liever aan andere dingen besteedt. Misschien ooit een keer.
+
+Je kunt de complete site en de onderliggende code en framework zelf downloaden en verbeteren via [mijn Github repository](https://github.com/frankmeeuwsen/allesonthouden).
