@@ -18,4 +18,4 @@ https://soundcloud.com/evernote/evernote-podcast-stacey-harmon-on-evernote-for-e
 
 &nbsp;
 
-<img class="invisible aligncenter wp-image-1050 size-full" src="https://allesonthouden.nl/wp-content/uploads/2015/11/Banner_podcast.png" alt="Banner_podcast" width="1024" height="512" />
+<img class="invisible aligncenter wp-image-1050 size-full" src="/images/2015/11/Banner_podcast.png" alt="Banner_podcast" width="1024" height="512" />
