@@ -1,0 +1,69 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Alles Onthouden
+tagline:          'A Jekyll theme'
+email: frank@incredibleadventure.nl
+pages: _pages
+description: > # this means to ignore newlines until "baseurl:"
+  Ik help je om Evernote professioneel te gebruiken. Heb je Evernote op je smartphone, tablet of PC staan, dan kun je hier allerhande tips en inspiratie vinden voor dagelijks gebruik. Ik geef workshops, presentaties en publiceer over slim professioneel gebruik van Evernote.
+
+#Local
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:4000/"
+
+#Live predomain
+#baseurl: "/allesonthouden/"
+#url: "http://frankmeeuwsen.github.io"
+
+#Live
+#baseurl: ""
+#url: "http://allesonthouden.nl"
+
+
+# twitter_username: frankmeeuwsen
+# github_username:  jekyll
+
+author:
+  name:           'Frank Meeuwsen'
+  url:            http://frankmeeuwsen.com
+
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+# highlighter:      pygments
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+
+# paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
