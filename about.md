@@ -11,6 +11,7 @@ Ik heb mijn volledige site uit Wordpress gehaald en omgezet naar deze structuur.
 
 1. De afbeeldingen heb ik als backup lokaal staan maar zijn nog niet volledig omgezet in deze nieuwe URL structuur
 2. Door de nieuwe URL structuur zal zoekmachine verkeer, hoe minimaal ook, niet meer lekker lopen. Dat moet ik nog in orde maken
+3. Ik heb nu geen https meer. Ik moet nog even uitvogelen hoe dat zit en of het echt nodig is. 
 3. Een nieuwe sitemap in XML formaat bij Google wegzetten.
 4. Mijn 404 pagina is nog niet zoals ik hem wil. Die moet ik nog aanpassen
 5. Op de oude site had ik een paar pagina's met tekst en uitleg. Die moet ik nog beschikbaar stellen hier
