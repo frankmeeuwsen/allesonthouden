@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Artikelen</h1>
+
+  {{ content }}
+
+    {% for post in site.posts %}
+      <h2> <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</h2>
+          <small>({{ post.date | date_to_string }})</small>
+        </a>
+    {% endfor %}
+</div>

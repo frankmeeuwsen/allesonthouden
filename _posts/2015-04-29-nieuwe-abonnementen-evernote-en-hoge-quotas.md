@@ -1,6 +1,6 @@
 ---
 ID: 850
-title: 'Evernote vernieuwt abonnementen en verhoogt quota's'
+title: 'Evernote vernieuwt abonnementen en verhoogt quotas'
 author: Frank Meeuwsen
 post_date: 2015-04-29 17:39:59
 layout: post
