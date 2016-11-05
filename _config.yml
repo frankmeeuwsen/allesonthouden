@@ -41,7 +41,7 @@ author:
 
 
 # Permalinks
-permalink:        /:title
+permalink:        /:title/
 
 # Build settings
 markdown: kramdown
