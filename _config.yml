@@ -28,7 +28,7 @@ description: > # this means to ignore newlines until "baseurl:"
 #url: "http://frankmeeuwsen.github.io"
 
 #Live
-baseurl: "allesonthouden/"
+baseurl: "/"
 url: "http://allesonthouden.nl"
 
 
