@@ -18,8 +18,15 @@ tagline:          'A Jekyll theme'
 email: frank@incredibleadventure.nl
 description: > # this means to ignore newlines until "baseurl:"
   Ik help je om Evernote professioneel te gebruiken. Heb je Evernote op je smartphone, tablet of PC staan, dan kun je hier allerhande tips en inspiratie vinden voor dagelijks gebruik. Ik geef workshops, presentaties en publiceer over slim professioneel gebruik van Evernote.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+
+#Local
+# baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://localhost:4000/"
+
+#Live
+baseurl: "/allesonthouden" 
+url: "http://frankmeeuwsen.github.io
+
 # twitter_username: frankmeeuwsen
 # github_username:  jekyll
 
