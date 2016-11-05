@@ -40,6 +40,8 @@ author:
   url:            http://frankmeeuwsen.com
 
 
+# Permalinks
+permalink:        /:title
 
 # Build settings
 markdown: kramdown
