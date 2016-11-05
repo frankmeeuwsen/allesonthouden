@@ -14,15 +14,15 @@ published: true
 
 Hoe stel je dit in? Je gaat in Evernote naar Tools &gt; Importfolder of Extra &gt; Importmappen, afhankelijk van je taalinstellingen.
 
-<img class="aligncenter wp-image-524 size-full" src="http://allesonthouden.nl/wp-content/uploads/2014/08/Volledige_scherm_31-08-14_00_15.jpg" alt="Volledige_scherm_31-08-14_00_15" width="279" height="196" />
+<img class="aligncenter wp-image-524 size-full" src="/images/2014/08/Volledige_scherm_31-08-14_00_15.jpg" alt="Volledige_scherm_31-08-14_00_15" width="279" height="196" />
 
 Je krijgt nu een venster waarin je de map opgeeft die Evernote in de gaten moet houden. Tevens geef je hier aan of Evernote de submappen in de folder in de gaten houdt, in welk notitieboek de bestanden worden opgeslagen en of het originele bestand kan worden verwijderd. Tip: Maak een standaardmap aan voor je import en noem hem “Evernote Import” of iets vergelijkbaars.
 
-<img class="aligncenter wp-image-525 size-full" src="http://allesonthouden.nl/wp-content/uploads/2014/08/Volledige_scherm_31-08-14_00_151.jpg" alt="Volledige_scherm_31-08-14_00_15" width="521" height="295" />
+<img class="aligncenter wp-image-525 size-full" src="/images/2014/08/Volledige_scherm_31-08-14_00_151.jpg" alt="Volledige_scherm_31-08-14_00_15" width="521" height="295" />
 
 &nbsp;
 
-<img class="aligncenter wp-image-526 size-full" src="http://allesonthouden.nl/wp-content/uploads/2014/08/Volledige_scherm_31-08-14_00_152.jpg" alt="Volledige_scherm_31-08-14_00_15" width="660" height="471" />
+<img class="aligncenter wp-image-526 size-full" src="/images/2014/08/Volledige_scherm_31-08-14_00_152.jpg" alt="Volledige_scherm_31-08-14_00_15" width="660" height="471" />
 
 Als je nu één of meerdere bestanden in de importmap sleept in je Verkenner, zul je zien dat ze direct in Evernote worden geïmporteerd. Je kunt naderhand in Evernote de notities nog een andere titel geven en ze verder verwerken in je eigen systeem.
 

@@ -14,7 +14,7 @@ Ik heb speciaal voor dit artikel een test gedaan door labels en notitieboeken aa
 
 &nbsp;
 
-<a href="http://allesonthouden.nl/wp-content/uploads/2014/11/screenshot-tags.png"><img class="aligncenter size-full wp-image-760" src="http://allesonthouden.nl/wp-content/uploads/2014/11/screenshot-tags.png" alt="screenshot-tags" width="221" height="532" /></a> <a href="http://allesonthouden.nl/wp-content/uploads/2014/11/screenshot.png"><img class="aligncenter size-full wp-image-761" src="http://allesonthouden.nl/wp-content/uploads/2014/11/screenshot.png" alt="screenshot" width="626" height="785" /></a>
+<a href="http://allesonthouden.nl/wp-content/uploads/2014/11/screenshot-tags.png"><img class="aligncenter size-full wp-image-760" src="/images/2014/11/screenshot-tags.png" alt="screenshot-tags" width="221" height="532" /></a> <a href="http://allesonthouden.nl/wp-content/uploads/2014/11/screenshot.png"><img class="aligncenter size-full wp-image-761" src="/images/2014/11/screenshot.png" alt="screenshot" width="626" height="785" /></a>
 
 Zit er logica in de lijst? Het lijkt er niet echt op. Wat ik heb gedaan is steeds een label en notitieboek gemaakt met de leestekens in volgorde van mijn toetsenbord. Plus de punt en komma. Maar Evernote lijkt zich niets aan te trekken van die logica. Ergens zit er een eigen logica in de volgorde, maar ik kan hem niet ontdekken.
 

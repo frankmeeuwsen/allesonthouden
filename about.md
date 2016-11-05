@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Over Allesonthouden.nl
+title: Techniek en code
 ---
 
 In 2014 en 2015 heb ik veel geschreven over Evernote op deze site. Echter, gedurende 2015 werd me duidelijk dat ik professioneel  een andere richting zou kiezen en dat ik minder tijd zou krijgen voor deze site. De hosting voor deze site liep echter wel door. Logisch, want ik had Wordpress nodig en daarvoor heb ik een hostingpartij nodig.
@@ -12,9 +12,9 @@ Ik heb mijn volledige site uit Wordpress gehaald en omgezet naar deze structuur.
 1. De afbeeldingen heb ik als backup lokaal staan maar zijn nog niet volledig omgezet in deze nieuwe URL structuur
 2. Door de nieuwe URL structuur zal zoekmachine verkeer, hoe minimaal ook, niet meer lekker lopen. Dat moet ik nog in orde maken
 3. De artikeltitels op de homepage zijn nog niet zoals ik wil. Dat is iets in het [template](http://hyde.getpoole.com/).
-4. Sommige verwijzingen naar de homepage kloppen niet helemaal.
+4. ~~Sommige verwijzingen naar de homepage kloppen niet helemaal.~~
 3. Ik heb nu geen https meer. Ik moet nog even uitvogelen hoe dat zit en of het echt nodig is.
-3. Een nieuwe sitemap in XML formaat bij Google wegzetten.
+3. ~~Een nieuwe sitemap in XML formaat bij Google wegzetten.~~
 4. Mijn 404 pagina is nog niet zoals ik hem wil. Die moet ik nog aanpassen
-5. Op de oude site had ik een paar pagina's met tekst en uitleg. Die moet ik nog beschikbaar stellen hier
+5. ~~Op de oude site had ik een paar pagina's met tekst en uitleg. Die moet ik nog beschikbaar stellen hier~~
 6. En mocht het me ooit lukken, dan wil ik toch wel een andere template. Maar dat kost tijd en energie die ik liever aan andere dingen besteedt. Misschien ooit een keer.

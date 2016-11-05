@@ -73,12 +73,8 @@ Door notities aan elkaar te linken maak je een eigen web van relevante documente
 	<li><strong>Delen van notities en notitielinks</strong> - Dit is wel een punt van aandacht. Als je een notitie met notitielinks deelt met iemand anders of via een publieke pagina, dan werken de notitielinks alleen als de doelnotitie eveneens openbaar is of gedeeld met deze personen. Anders krijg je een foutmelding. Als je een notitielink wilt plakken in een reeds gedeelde notitie, dan krijg je hier een waarschuwing voor. Je kunt dan nog altijd de link plakken, maar let hier dus op.</li>
 	<li><strong>Verwijderen originele notities</strong> - Heb je een notitie via een link gedeeld, dan kun je deze notitie altijd nog naar een ander notititeboek verplaatsen. Je kunt eveneens de naam van de originele notitie wijzigen, de link houdt echter de originele naam. Verwijder je de originele notitie, dan zal de link niet meer werken.</li>
 	<li><strong>Links buiten Evernote gebruiken</strong> - Je kunt deze links ook <em>buiten</em> Evernote gebruiken. Plak de gekopieerde link naar je takenmanager of de notities van een afspraak in je agenda. Zo ga je met één klik vanuit je takenmanager of agenda direct naar de gewenste notitie.</li>
-	<li><strong>Naam van de link wijzigen</strong> - De link heeft standaard de notitienaam. Deze kun je gewoon wijzigen, maar let hier wel op dat je de link niet verwijdert. Mijn hack is om midden in de originele linktekst mijn nieuwe linktekst te schrijven en dan de rest te verwijderen. Zo hou je altijd de link intact. Zie onderstaande video ter illustratie.</li>
+	<li><strong>Naam van de link wijzigen</strong> - De link heeft standaard de notitienaam. Deze kun je gewoon wijzigen, maar let hier wel op dat je de link niet verwijdert. Mijn hack is om midden in de originele linktekst mijn nieuwe linktekst te schrijven en dan de rest te verwijderen. Zo hou je altijd de link intact.</li>
 </ul>
-https://www.youtube.com/watch?v=z-G4RpuyjU0
+
 
 Notitielinks zijn ideaal in Evernote om taken te bundelen, inspiratie te linken en veelgebruikte notities snel terug te vinden. Hoe gebruik jij notitielinks?
-
-&nbsp;
-
-<a href="http://allesonthouden.nl/wp-content/uploads/2015/08/Banner_Canva_notitielinks.jpg"><img class="invisible alignnone wp-image-969 size-large" src="http://allesonthouden.nl/wp-content/uploads/2015/08/Banner_Canva_notitielinks-1024x512.jpg" alt="" width="1024" height="512" /></a>

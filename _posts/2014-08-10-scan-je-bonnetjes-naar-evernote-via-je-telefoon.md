@@ -37,13 +37,13 @@ Er zijn veel verschillende scannerapps op de markt voor zowel iOS als Android en
 
 <strong>Randen selecteren</strong> - Vrijwel alle apps herkennen de randen van de bon en selecteren deze automatisch. Je kunt soms voor een vrije vorm kiezen waarbij je zelf de hoeken selecteert en de app de randen zo detecteert. Hier werkt het extra licht vaak goed, evenals een contrasterende achtergrond.
 
-<img class="aligncenter size-full wp-image-455" src="http://allesonthouden.nl/wp-content/uploads/2014/08/scanner_smartphone_manualcrop.jpg" alt="scanner_smartphone_manualcrop" width="640" height="960" />
+<img class="aligncenter size-full wp-image-455" src="/images/2014/08/scanner_smartphone_manualcrop.jpg" alt="scanner_smartphone_manualcrop" width="640" height="960" />
 
 <strong>Naamgeving</strong> - Na het maken van de foto kun je het document een naam geven. Afhankelijk van de hoeveelheid scans die ik doe en hoeveel tijd ik er aan wil besteden geef ik er alvast een kenmerkende naam aan. Zo zal het bij import in Evernote al beter herkenbaar zijn.
 
 <strong>Export</strong> - Er zijn apps waar je zogenaamde profielen in kunt stellen. Dit is een kleine workflow waarin na het maken van de foto er direct een naam aan wordt gegeven en automatisch naar Evernote wordt gestuurd. Als dat er niet is, kies voor de exportmogelijkheid naar Evernote.
 
-<img class="aligncenter size-full wp-image-454" src="http://allesonthouden.nl/wp-content/uploads/2014/08/scanner_smartphone_autoupload.jpg" alt="scanner_smartphone_autoupload" width="640" height="960" />
+<img class="aligncenter size-full wp-image-454" src="/images/2014/08/scanner_smartphone_autoupload.jpg" alt="scanner_smartphone_autoupload" width="640" height="960" />
 
 <strong>Email</strong> - Mocht je favoriete app geen Evernote koppeling hebben of maak je die liever niet, dan kun je het gescande document altijd nog mailen naar je eigen Evernote mailadres.
 

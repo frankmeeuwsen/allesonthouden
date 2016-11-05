@@ -12,7 +12,7 @@ published: true
 
 <!--more-->
 
-<img class="alignright size-full wp-image-561" src="http://allesonthouden.nl/wp-content/uploads/2014/08/scaled.hardcoverstack.png" alt="scaled.hardcoverstack" width="300" height="357" />De <a href="http://ebooks.lifehacking.nl/shop/lifehacking-met-evernote/">eerste editie van het e-book Lifehacking met Evernote</a> is van maart 2013 en er is veel veranderd bij Evernote. Maar ik durf wel te zeggen dat 90% van wat we hebben geschreven in het boek nog steeds bruikbaar is. Eigenlijk <em>missen</em> er wat functionaliteiten zoals het gebruik van Herinneringen en de mogelijkheden van Evernote Business. Maar maak je de eerste stappen in Evernote, dan is ons e-book Lifehacking met Evernote echt geschikt voor je.
+<img class="alignright size-full wp-image-561" src="/images/2014/08/scaled.hardcoverstack.png" alt="scaled.hardcoverstack" width="300" height="357" />De <a href="http://ebooks.lifehacking.nl/shop/lifehacking-met-evernote/">eerste editie van het e-book Lifehacking met Evernote</a> is van maart 2013 en er is veel veranderd bij Evernote. Maar ik durf wel te zeggen dat 90% van wat we hebben geschreven in het boek nog steeds bruikbaar is. Eigenlijk <em>missen</em> er wat functionaliteiten zoals het gebruik van Herinneringen en de mogelijkheden van Evernote Business. Maar maak je de eerste stappen in Evernote, dan is ons e-book Lifehacking met Evernote echt geschikt voor je.
 
 In dit e-book leer je
 <ul>

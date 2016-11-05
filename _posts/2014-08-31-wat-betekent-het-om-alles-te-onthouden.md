@@ -41,7 +41,7 @@ Wat ik je zeker niet wil onthouden zijn de <a title="Alles Onthouden Notities" h
 
 Welkom bij <strong>Alles Onthouden</strong>. Ik stel me tot doel om met Evernote alles te onthouden wat voor mij belangrijk is. Van projectdocumenten tot de eerste woordjes van mijn kinderen.
 
-<img class="aligncenter size-full wp-image-544" src="http://allesonthouden.nl/wp-content/uploads/2014/08/Evernote_Business.jpg" alt="Evernote_Business" width="761" height="250" />
+<img class="aligncenter size-full wp-image-544" src="/images/2014/08/Evernote_Business.jpg" alt="Evernote_Business" width="761" height="250" />
 
 &nbsp;
 

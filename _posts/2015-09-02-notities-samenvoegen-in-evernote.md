@@ -27,4 +27,4 @@ Ik vind het persoonlijk soms wat verwarrend hoe de notities worden samengevoegd,
 <h2 id="kunjemobielnotitiessamenvoegen">Kun je mobiel notities samenvoegen?</h2>
 Helaas is het op dit moment niet mogelijk om notities samen te voegen op je smartphone of tablet.
 
-<img class="alignnone size-full wp-image-985 invisible" src="http://allesonthouden.nl/wp-content/uploads/2015/09/banner_SamenvoegenNotities.png" alt="banner_SamenvoegenNotities" width="800" height="400" />
+<img class="alignnone size-full wp-image-985 invisible" src="/images/2015/09/banner_SamenvoegenNotities.png" alt="banner_SamenvoegenNotities" width="800" height="400" />

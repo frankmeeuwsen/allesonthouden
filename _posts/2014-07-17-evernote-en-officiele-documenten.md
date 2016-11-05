@@ -76,7 +76,7 @@ Eén van de manieren waarop je Evernote kunt gebruiken om naar een papierloze ad
 
 <h2 id="aandachtspuntenvoorofficiëledocumenten">Aandachtspunten voor officiële documenten</h2>
 
-<img class="alignleft size-full wp-image-43" src="http://allesonthouden.nl/wp-content/uploads/2014/07/306_Kopie_paspoort_hotel.png" alt="306_Kopie_paspoort_hotel" width="210" height="160" />Het is één om webknipsels en scans van je favoriete recepten in Evernote te zetten. Het is iets anders om officiële documenten in Evernote te plaatsen, waar mogelijk privacy-gevoelige informatie op aanwezig is. Wij raden iedereen aan om zelf de juiste en afgewogen beslissing te maken wat je wel en niet in software als Evernote plaatst en waar je je nog lekker bij voelt. Neem hierin de volgende overwegingen mee:
+<img class="alignleft size-full wp-image-43" src="/images/2014/07/306_Kopie_paspoort_hotel.png" alt="306_Kopie_paspoort_hotel" width="210" height="160" />Het is één om webknipsels en scans van je favoriete recepten in Evernote te zetten. Het is iets anders om officiële documenten in Evernote te plaatsen, waar mogelijk privacy-gevoelige informatie op aanwezig is. Wij raden iedereen aan om zelf de juiste en afgewogen beslissing te maken wat je wel en niet in software als Evernote plaatst en waar je je nog lekker bij voelt. Neem hierin de volgende overwegingen mee:
 
 <ul>
     <li>Evernote is <em>géén</em> vervanging voor de officiële papieren versies. Je hebt nog altijd je normale paspoort nodig als je door de douane wilt.</li>

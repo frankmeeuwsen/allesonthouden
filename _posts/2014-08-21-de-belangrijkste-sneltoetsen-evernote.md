@@ -18,6 +18,6 @@ Evernote heeft uiteraard zijn eigen sneltoetsen. Je kunt in de opties van Everno
 
 Ik heb voor jullie de belangrijkste sneltoetsen op een rij gezet. Dit zijn in mijn ervaring de sneltoetsen die ik het meeste gebruik in Evernote zelf. Als je deze in de <em>muscle memory</em> van je vingers krijgt dan zul je merken dat je sneller en meer gefocussed door Evernote gaat en je werk kunt doen.
 
-<img class="aligncenter size-full wp-image-462" src="http://allesonthouden.nl/wp-content/uploads/2014/08/infographic-shortcuts.jpg" alt="infographic-shortcuts" width="800" height="482" />
+<img class="aligncenter size-full wp-image-462" src="/images/2014/08/infographic-shortcuts.jpg" alt="infographic-shortcuts" width="800" height="482" />
 
 Kopieer en plak de afbeelding in Evernote zodat je hem altijd bij de hand hebt. En laat me eens weten wat jouw meest gebruikte sneltoets is.

@@ -10,7 +10,7 @@ published: true
 
 <!--more-->
 
-<img class="alignleft size-medium wp-image-188" src="http://allesonthouden.nl/wp-content/uploads/2014/07/webclipper_1-300x210.png" alt="webclipper_1" width="300" height="210" />Net als met veel andere installaties van Evernote is de <a title="Evernote webclipper" href="http://evernote.com/webclipper">webclipper</a> helaas niet in alle browsers gelijk. De installatie en gebruik is veelal hetzelfde maar sommige verbeteringen in het ontwerp en bijvoorbeeld sneltoetsen wordt op één platform sneller uitgerold dan andere platformen. In dit artikel geef ik de uitleg over de meest geavanceerde webclipper, die nu is te gebruiken in Google Chrome. Maar veel functionaliteit is eveneens in de webclippers voor andere browsers te vinden.
+<img class="alignleft size-medium wp-image-188" src="/images/2014/07/webclipper_1-300x210.png" alt="webclipper_1" width="300" height="210" />Net als met veel andere installaties van Evernote is de <a title="Evernote webclipper" href="http://evernote.com/webclipper">webclipper</a> helaas niet in alle browsers gelijk. De installatie en gebruik is veelal hetzelfde maar sommige verbeteringen in het ontwerp en bijvoorbeeld sneltoetsen wordt op één platform sneller uitgerold dan andere platformen. In dit artikel geef ik de uitleg over de meest geavanceerde webclipper, die nu is te gebruiken in Google Chrome. Maar veel functionaliteit is eveneens in de webclippers voor andere browsers te vinden.
 
 <h2 id="installerenvandeextensie">Installeren van de extensie</h2>
 
@@ -65,7 +65,7 @@ Een compleet overzicht van de sneltoetsen zie je in onderstaande gallerij
 
 <h2 id="delenvanknipselsenherinneringen">Delen van knipsels en herinneringen</h2>
 
-<img class="aligncenter size-full wp-image-192" src="http://allesonthouden.nl/wp-content/uploads/2014/07/webclipper_5.jpg" alt="webclipper_5" width="461" height="146" />
+<img class="aligncenter size-full wp-image-192" src="/images/2014/07/webclipper_5.jpg" alt="webclipper_5" width="461" height="146" />
 Ik heb de optie standaard <em>uit</em> staan want ik merk dat het niet in <em>mijn</em> workflow past, maar het kan voor jou zeker van waarde zijn. Als je in de opties aanvinkt “Na opname” &gt; “Laat het succesvolle knipseldialoog zien”, dan krijg je de mogelijkheid om je knipsel direct te delen met anderen via e-mail, Linkedin, Facebook of Twitter. Tevens kun je direct een link krijgen naar de gedeelde notitie. Tenslotte kun je een herinnering instellen, bijvoorbeeld bij een bladwijzer, om deze nog eens te bezoeken op een later tijdstip.
 
 <h2 id="hoegebruikikdewebclipper">Hoe gebruik ik de webclipper?</h2>

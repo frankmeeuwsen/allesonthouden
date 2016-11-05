@@ -12,7 +12,7 @@ published: true
 <h2 id="watisjemailadres">Wat is je e-mailadres?</h2>
 Als je een Evernote account aanmaakt krijg je een eigen mailadres op het Evernote domein. Je ontvangt bij het aanmaken van je account hier een e-mail over op je eigen mailadres. Je kunt het adres eveneens terugvinden in de instellingen van Evernote in de web- en mobiele applicatie of in de <a href="https://www.evernote.com/Settings.action">account instellingen</a> op het web.
 
-<img class="aligncenter size-full wp-image-253" src="http://allesonthouden.nl/wp-content/uploads/2014/07/Account_overzicht.jpg" alt="Account_overzicht" width="961" height="657" />
+<img class="aligncenter size-full wp-image-253" src="/images/2014/07/Account_overzicht.jpg" alt="Account_overzicht" width="961" height="657" />
 
 &nbsp;
 <h2 id="emailenevernote">E-mail en Evernote</h2>
@@ -28,7 +28,7 @@ Wat kun je met dat e-mailadres? Alles wat je met elk ander e-mailadres kunt doen
 <h2 id="emailnaarnotitieboekenenlabels">E-mail naar notitieboeken en labels</h2>
 Als je een mail stuurt naar Evernote dan wordt deze als notitie opgeslagen in het notitieboek dat jij als <em>standaard</em> hebt ingesteld. Heb je in je account instellingen aangevinkt dat Evernote je notities automatisch moet organiseren, dan zal Evernote je mail organiseren in een passend notitieboek, gebaseerd op de organisatie van soortgelijke notities. Wil je zelf meer controle houden over de organisatie, zet deze optie dan uit in je account instellingen.
 
-<img class="aligncenter size-full wp-image-252" src="http://allesonthouden.nl/wp-content/uploads/2014/07/Persoonlijke_instellingen_en_Evernote_Business.jpg" alt="Persoonlijke_instellingen_en_Evernote_Business" width="700" height="225" />
+<img class="aligncenter size-full wp-image-252" src="/images/2014/07/Persoonlijke_instellingen_en_Evernote_Business.jpg" alt="Persoonlijke_instellingen_en_Evernote_Business" width="700" height="225" />
 Je e-mail wordt op een specifieke wijze opgeslagen in Evernote. Als je hier rekening mee houdt vóór het verzenden, maakt dat je workflow een stuk soepeler. Met wat extra metadata in de onderwerpregel kun je nog sneller je mail organiseren in Evernote.
 
 Het onderwerp van de mail wordt automatisch de titel van de notitie. Alles wat je achter het onderwerp zet helpt je met de opslag in Evernote.

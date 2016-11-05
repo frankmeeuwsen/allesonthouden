@@ -22,7 +22,7 @@ Skitch is <a href="http://evernote.com/intl/nl/skitch/">een gratis applicatie</a
 
 &nbsp;
 
-<img class="aligncenter  wp-image-327" src="http://allesonthouden.nl/wp-content/uploads/2014/07/Skitch_screenshot.png" alt="Skitch_screenshot" width="356" height="524" />
+<img class="aligncenter  wp-image-327" src="/images/2014/07/Skitch_screenshot.png" alt="Skitch_screenshot" width="356" height="524" />
 
 De standaardgereedschappen in Skitch geven je voldoende manieren om je idee over te brengen. Zo heeft Evernote zelf Skitch gebruikt om <a href="http://blog.evernote.com/blog/2013/01/25/skitch-at-evernote-designing-evernote-business/">ontwerpideeën rondom Evernote Business</a> met elkaar te delen. De gereedschappen zijn:
 
@@ -31,7 +31,7 @@ De standaardgereedschappen in Skitch geven je voldoende manieren om je idee over
 <strong>Vierkant, lijn en ellips</strong> - Standaardvormen die je kunt gebruiken om een deel van je afbeelding aandacht te geven
 <strong>Markeer- en arceerstift</strong> - Je kunt tekst markeren of arceren. Met de eerste ga je werkelijk over de tekst heen, die wordt dan onleesbaar. Met het arceren geef je de tekst een opvallende achtergrondkleur.
 
-<img class="wp-image-332 aligncenter" src="http://allesonthouden.nl/wp-content/uploads/2014/07/20140728Evernotecollection_-_Skitch.jpg" alt="20140728Evernotecollection_-_Skitch" width="373" height="97" />
+<img class="wp-image-332 aligncenter" src="/images/2014/07/20140728Evernotecollection_-_Skitch.jpg" alt="20140728Evernotecollection_-_Skitch" width="373" height="97" />
 <strong>Zegels en stempels</strong> - Met deze voorgedefinieerde stempels kun je een deel van de afbeelding accentueren met pictogrammen voor OK, niet OK, een vraag of juist iets belangrijks. Tevens kun je tekst aan de stempel toevoegen
 <strong>Pixelator</strong> - Met de pixelator kun je een deel van je afbeelding onherkenbaar maken. Denk aan een huisnummer of een gezicht van iemand. Selecteer de tool en sleep over het gewenste gedeelte. Dit gereedschap is alleen beschikbaar voor afbeeldingen, niet voor PDF’s
 <strong>Bijsnijden en verkleinen</strong> - Tenslotte kun je de afbeelding bijsnijden of juist verkleinen. Hiermee kun je overbodige delen weglaten en de bestandsgrootte naar beneden brengen. Dit gereedschap is alleen op de desktop beschikbaar voor afbeeldingen, niet voor PDF’s
@@ -43,7 +43,7 @@ Je kunt alle gereedschappen door elkaar en met elkaar gebruiken.
 Als je Skitch koppelt aan je Evernote account, dan worden al je afbeeldingen standaard opgeslagen in het nieuwe notitieboek Skitch in je Evernote. Je kunt dit wijzigen in de instellingen van Skitch. Daarnaast heeft Evernote de volledige functionaliteit van Skitch overgenomen in Evernote zelf. Boven in de taakbalk van Evernote vind je de mogelijkheid om afbeeldingen te annoteren. Hiermee open je een uitgeklede versie van Skitch waarmee je direct in Evernote annotaties aan beelden kunt toevoegen. Ben je klaar met de annotaties, dan sluit je het venster en je Evernote notitie is direct bijgewerkt met de extra aanwijzingen uit Skitch.
 Een mooie bijkomstigheid is dat de tekst van je annotaties direct doorzoekbaar is in Evernote. Vanwege de tekstherkenning in Evernote kun je de annotaties dus prima terugvinden met zoektermen!
 
-<a href="http://allesonthouden.nl/wp-content/uploads/2014/07/Evernote_Business.jpg"><img class="aligncenter  wp-image-333" src="http://allesonthouden.nl/wp-content/uploads/2014/07/Evernote_Business.jpg" alt="Evernote_Business" width="543" height="332" /></a>
+<a href="http://allesonthouden.nl/wp-content/uploads/2014/07/Evernote_Business.jpg"><img class="aligncenter  wp-image-333" src="/images/2014/07/Evernote_Business.jpg" alt="Evernote_Business" width="543" height="332" /></a>
 
 <h2 id="hoekunjehetmobielgebruiken">Hoe kun je het mobiel gebruiken?</h2>
 
@@ -53,7 +53,7 @@ Op je smartphone is Skitch zowel een standalone app als geïntegreerd in Evernot
 
 Evernote Premium gebruikers hebben een extra functionaliteit met Skitch, namelijk de mogelijkheid om een PDF te annoteren. Er zijn al veel apps en programma’s op de markt die dit kunnen. Het nadeel vind ik dat je nog altijd door de PDF moet scrollen om te zien wat de wijzigingen zijn. Met Skitch krijg je bij het openen van de PDF direct een overzichtspagina van het aantal annotaties én op welke pagina ze staan. In onderstaande afbeelding zie je een voorbeeld
 
-<img class="aligncenter  wp-image-331" src="http://allesonthouden.nl/wp-content/uploads/2014/07/markup_pdf_summary1.jpg" alt="markup_pdf_summary1" width="476" height="461" />
+<img class="aligncenter  wp-image-331" src="/images/2014/07/markup_pdf_summary1.jpg" alt="markup_pdf_summary1" width="476" height="461" />
 
 De overzichtspagina bevat zowel het aantal annotaties die in het document zitten als screenshots van de annotaties. Tevens kun je in de PDF direct vanuit de overzichtspagina naar de annotatie klikken. De tekstannotaties in de PDF zijn eveneens direct doorzoekbaar in Evernote.
 

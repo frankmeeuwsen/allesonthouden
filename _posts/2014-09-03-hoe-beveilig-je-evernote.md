@@ -34,37 +34,37 @@ Het goede nieuws is dat je TFA redelijk snel kunt instellen en dat het bij elke 
 	<li>Log in bij Evernote.com en ga naar de <a href="https://www.evernote.com/Settings.action">Account instellingen</a>.</li>
 	<li>In de linkernavigatie kies je het onder de kop <strong>Veiligheid</strong> voor <em>Beveiligingsoverzicht</em></li>
 </ul>
-<img class="aligncenter size-full wp-image-585" src="http://allesonthouden.nl/wp-content/uploads/2014/09/Beveiligingsoverzicht.jpg" alt="Beveiligingsoverzicht" width="738" height="288" />
+<img class="aligncenter size-full wp-image-585" src="/images/2014/09/Beveiligingsoverzicht.jpg" alt="Beveiligingsoverzicht" width="738" height="288" />
 <ul>
 	<li>Kies bij het item <strong>2-stappenverificatie</strong> voor <strong>Inschakelen</strong>. Je krijgt een korte uitleg over TFA. Klik op <em>Doorgaan</em>.</li>
 	<li>Je krijgt nog eens extra uitleg over de verificatiecode en de backupcodes die je ontvangt. Klik na het lezen op <em>Doorgaan</em>.</li>
 	<li>Nu krijg je een verificatie van je mailadres. Dit is voor een bevestigingscode om de instellingsprocedure te starten. Check je mailadres en klik op“Verificatiemail sturen”. Klopt je mailadres niet? Klik op <em>Annuleren</em> en wijzig eerst je E-mailadres.</li>
 	<li>Vervolgens ontvang je een email met een code. Deze vul je in op de pagina Beveiligingsoverzicht of je klikt op de link in de mail.</li>
 </ul>
-<img class="aligncenter size-full wp-image-586" src="http://allesonthouden.nl/wp-content/uploads/2014/09/Beveiligingsoverzicht1.jpg" alt="Beveiligingsoverzicht" width="701" height="268" />
+<img class="aligncenter size-full wp-image-586" src="/images/2014/09/Beveiligingsoverzicht1.jpg" alt="Beveiligingsoverzicht" width="701" height="268" />
 <ul>
 	<li>Nu krijg je het verzoek om je telefoonnummer in te vullen. Dit is nodig om je via SMS een toegangscode te sturen als de Google Authenticator niet goed werkt. Ik heb gemerkt dat bij een harde reset van je smartphone, Google Authenticator niet altijd meer goed functioneert. Je kunt dan via SMS nog toegangscodes ontvangen.</li>
 	<li>Na het invullen van je telefoonnummer ontvang je een SMS met een zescijferige code. Deze vul je in en klikt op <em>Doorgaan</em>.</li>
 	<li>Je kunt nu nog optioneel een extra telefoonnummer invoeren, bijvoorbeeld van je partner. Mocht je eigen telefoon onbruikbaar zijn, dan kun je deze telefoon gebruiken als backup.</li>
 	<li>Nu kunnen we Google Authenticator instellen. Kies in het volgende scherm de smaak van je smartphone en open Google Authenticator op je telefoon.</li>
 </ul>
-<img class="aligncenter size-full wp-image-587" src="http://allesonthouden.nl/wp-content/uploads/2014/09/Beveiligingsoverzicht2.jpg" alt="Beveiligingsoverzicht" width="496" height="684" />
+<img class="aligncenter size-full wp-image-587" src="/images/2014/09/Beveiligingsoverzicht2.jpg" alt="Beveiligingsoverzicht" width="496" height="684" />
 <ul>
 	<li>Klik op het +-teken in Authenticator om een nieuwe beveiliging toe te voegen en vervolgens op “Streepjescode scannen”. Op je desktop kies je voor “<em>Doorgaan</em>” bij het juiste OS. Ik kies in dit voorbeeld voor iOS.</li>
 </ul>
-<img class="aligncenter wp-image-588 size-medium" src="http://allesonthouden.nl/wp-content/uploads/2014/09/2014-09-02-22.32.19-200x300.png" alt="2014-09-02 22.32.19" width="200" height="300" />
+<img class="aligncenter wp-image-588 size-medium" src="/images/2014/09/2014-09-02-22.32.19-200x300.png" alt="2014-09-02 22.32.19" width="200" height="300" />
 <ul>
 	<li>Je ziet nu een streepjescode in beeld. Krijg deze in beeld via de camera van je telefoon en Google Authenticator zal automatisch scherpstellen en de code verifieren.</li>
-	<li>Je ziet nu een code in het scherm van je smartphone. Type deze over in het vak onder de streepjescode op je PC scherm en klik op “<em>Doorgaan</em>”<img class="aligncenter wp-image-589" src="http://allesonthouden.nl/wp-content/uploads/2014/09/Beveiligingsoverzicht3.jpg" alt="Beveiligingsoverzicht" width="400" height="454" /></li>
+	<li>Je ziet nu een code in het scherm van je smartphone. Type deze over in het vak onder de streepjescode op je PC scherm en klik op “<em>Doorgaan</em>”<img class="aligncenter wp-image-589" src="/images/2014/09/Beveiligingsoverzicht3.jpg" alt="Beveiligingsoverzicht" width="400" height="454" /></li>
 	<li>Als de code juist is krijg je een vervolgscherm met Backup codes. Deze kun je gebruiken als je niet in staat om een verificatiecode via je telefoon te geven, bijvoorbeeld als je je telefoon kwijt bent. Sla deze backup codes op in een veilige plek. Let op: Sla ze niet op in Evernote. Ze zijn bedoeld om toegang te krijgen tot Evernote. Ik heb ze opgeslagen in mijn wachtwoordmanager 1Password als “geheime notitie”</li>
 	<li>Nu vraagt Evernote je om één van de backupcodes in te voeren ter verificatie. Kies een van de codes en kopieer en plak deze in het veld. Klik op “<em>Instellen voltooien</em>”.</li>
 </ul>
-<img class="aligncenter wp-image-590" src="http://allesonthouden.nl/wp-content/uploads/2014/09/Beveiligingsoverzicht4.jpg" alt="Beveiligingsoverzicht" width="400" height="514" />
+<img class="aligncenter wp-image-590" src="/images/2014/09/Beveiligingsoverzicht4.jpg" alt="Beveiligingsoverzicht" width="400" height="514" />
 <ul>
 	<li>Heb je Evernote in het verleden al eens aan andere apps of websites gekoppeld, dan krijg je daar nu een overzicht van. Deze zullen namelijk een volgende keer eerst om een verificatiecode vragen. Je zult dus opnieuw moeten inloggen in deze apps. Je ziet in het screenshot dat ik aardig wat apps aan Evernote heb gekoppeld. Als dit bij jou ook is, dan zul je zien dat je niet naar de “<em>Klaar</em>” knop kunt scrollen. Een interface foutje van Evernote. Wat ik doe is uitzoomen in mijn scherm tot ik de knop zie.</li>
 	<li>Je bent nu weer terug in het scherm <strong>Beveiligingsoverzicht</strong>, maar nu zie je dat <strong>Twee stappen-verificatie</strong> is ingeschakeld. Je krijgt nog een e-mail op je geregistreerde adres met de melding dat de extra beveiliging is ingesteld.</li>
 </ul>
-<img class="aligncenter wp-image-591" src="http://allesonthouden.nl/wp-content/uploads/2014/09/Beveiligingsoverzicht5.jpg" alt="Beveiligingsoverzicht" width="699" height="214" />
+<img class="aligncenter wp-image-591" src="/images/2014/09/Beveiligingsoverzicht5.jpg" alt="Beveiligingsoverzicht" width="699" height="214" />
 <ul>
 	<li>Via de knop “Instellingen beheren” kun je nog wisselen tussen Google Authenticator en codes via SMS, mocht je dat willen. Tevens kun je hier je telefoonnummer wijzigen, een extra telefoonnummer invoeren of je backupcodes bekijken.</li>
 </ul>
@@ -73,11 +73,11 @@ Hoe werkt TFA nu in de praktijk? Ik gebruik de iPhone applicatie als voorbeeld.
 <ul>
 	<li>Na het invoeren van mijn logingegevens krijg ik een extra scherm voor de TFA</li>
 </ul>
-<img class="aligncenter wp-image-592" src="http://allesonthouden.nl/wp-content/uploads/2014/09/2014-09-02-22.54.26.png" alt="2014-09-02 22.54.26" width="350" height="525" />
+<img class="aligncenter wp-image-592" src="/images/2014/09/2014-09-02-22.54.26.png" alt="2014-09-02 22.54.26" width="350" height="525" />
 <ul>
 	<li>Ik switch nu naar Google Authenticator en kopieer de code die ik in het scherm zie. Dit doe je door met je vinger de code in te drukken. Je ziet dan automatisch een melding “gekopieerd” in het scherm verschijnen. Tip: Hou het klokje naast de code in de gaten. Als deze bijna op is en de code verandert van kleur, wacht dan even op een nieuwe code. De code wijzigt namelijk steeds en zo weet je zeker dat je nog een geldige code hebt.</li>
 </ul>
-<img class="aligncenter wp-image-595" src="http://allesonthouden.nl/wp-content/uploads/2014/09/2014-09-02_22_32_35.jpg" alt="2014-09-02_22_32_35" width="350" height="525" /> <img class="aligncenter wp-image-594 size-thumbnail" src="http://allesonthouden.nl/wp-content/uploads/2014/09/2014-09-02_22_54_36-150x150.jpg" alt="2014-09-02_22_54_36" width="150" height="150" />
+<img class="aligncenter wp-image-595" src="/images/2014/09/2014-09-02_22_32_35.jpg" alt="2014-09-02_22_32_35" width="350" height="525" /> <img class="aligncenter wp-image-594 size-thumbnail" src="/images/2014/09/2014-09-02_22_54_36-150x150.jpg" alt="2014-09-02_22_54_36" width="150" height="150" />
 <ul>
 	<li>Switch terug naar Evernote door 2x snel op de homeknop te drukken en in het miniatuurscherm voor Evernote te kiezen en plak de code.</li>
 </ul>

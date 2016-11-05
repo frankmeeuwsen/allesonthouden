@@ -61,9 +61,9 @@ Als je de zip file van Github hebt gedownload kun je deze op elke gewenste plek 
 
 Open het script in de Applescript Editor om nog eventuele wijzigingen te maken. Je ziet dan iets als onderstaande venster
 
-<img class="aligncenter wp-image-135" src="http://allesonthouden.nl/wp-content/uploads/2014/07/20140601AO_En2OFSCPT-1024x703.jpg" alt="20140601AO_En2OFSCPT" width="700" height="481" />
+<img class="aligncenter wp-image-135" src="/images/2014/07/20140601AO_En2OFSCPT-1024x703.jpg" alt="20140601AO_En2OFSCPT" width="700" height="481" />
 
-<figure></figure>In het onderdeel Settings kun je desgewenst wijzigingen aanbrengen.
+In het onderdeel Settings kun je desgewenst wijzigingen aanbrengen.
 <strong>todoTag</strong> : De gebruikte tag in Evernote om aan Omnifocus te koppelen. Deze staat standaard op “review” maar hier kun je elke andere tag van maken.
 <strong>taskPrefix</strong> : Dit is de tekst die in Omnifocus voor de titel van de Evernote notitie komt. Hij staat standaard op “Review: ” maar deze kun je aanpassen naar een andere tekst. Wil je geen prefix, maak er dan "“ van.
 <strong>transferReminder</strong> : Wil je de originele herinnering uit Evernote meenemen naar Omnifocus? Deze staat standaard op ”true“. Zet hem op ”false“ om de herinnering niet mee te nemen naar Omnifocus
@@ -75,7 +75,7 @@ Nu maak je van dit script een applicatie. Je maakt er dan een losstaand programm
 
 &nbsp;
 
-<img class="aligncenter wp-image-132" src="http://allesonthouden.nl/wp-content/uploads/2014/07/20140601AO_En2OFSCPT_export.jpg" alt="20140601AO_En2OFSCPT_export" width="700" height="453" />
+<img class="aligncenter wp-image-132" src="/images/2014/07/20140601AO_En2OFSCPT_export.jpg" alt="20140601AO_En2OFSCPT_export" width="700" height="453" />
 
 <ul>
     <li>Kies Archief &gt; Exporteer</li>
@@ -91,7 +91,7 @@ Nu kun je het programma al testen. Maak een notitie in Evernote met de tag “re
 Echter, je wilt niet constant zelf er aan denken om deze applicatie te starten. Hiervoor kun je het uitstekende programma <a href="http://www.peterborgapps.com/lingon/">Lingon</a> gebruiken. Het kost € 7,40 als je het op de site zelf koopt (Lingon X) en € 4,99 in de <a href="http://clkuk.tradedoubler.com/click?p=24371&amp;a=2064103&amp;uo=4&amp;partnerId=2003&amp;url=https://itunes.apple.com/nl/app/lingon-3/id450201424?mt=12?ls=1&amp;mt=8">Mac Appstore</a> (affiliate link). Het verschil zit hem in de de mogelijheden van de applicaties. Lingon X is net iets geavanceerder dan Lingon 3. Met Lingon kun je de interval instellen wanneer het script zijn werk moet doen. Dit kan op de Mac eveneens handmatig via launchd. Heb je daar geen ervaring mee, gebruik dan Lingon.
 Start Lingon en je ziet iets als onderstaande scherm. Ik gebruik Lingon X. In Lingon 3 kan de weergave net iets anders zijn maar de werking is veelal gelijk.
 
-<img class="aligncenter size-full wp-image-133" src="http://allesonthouden.nl/wp-content/uploads/2014/07/20140601AO_En2OFSCPT_lingon1.jpg" alt="20140601AO_En2OFSCPT_lingon1" width="491" height="369" />
+<img class="aligncenter size-full wp-image-133" src="/images/2014/07/20140601AO_En2OFSCPT_lingon1.jpg" alt="20140601AO_En2OFSCPT_lingon1" width="491" height="369" />
 
 Klik op de plus-knop bovenin om een nieuwe job aan te maken.
 Je krijgt nu een venster waarin je wat informatie moet opgeven. Geef de job de naam Evernote2Omnifocus. Kies bij “Voer uit” het pad naar je applicatie die je in de vorige stap hebt opgeslagen.
@@ -99,7 +99,7 @@ Bij “Datum” vink je aan “Altijd” en “Tijd” &gt; Elk uur op 0 minuut.
 <strong>Let op</strong>: Zet de interval waarop het script loopt altijd hoger dan de synchronisatie interval van Evernote. Evernote moet een notitie namelijk eenmaal synchroniseren om een notitielink te krijgen.
 Klik op “Bewaar”
 
-<img class="aligncenter size-full wp-image-134" src="http://allesonthouden.nl/wp-content/uploads/2014/07/20140601AO_En2OFSCPT_lingon2.jpg" alt="20140601AO_En2OFSCPT_lingon2" width="487" height="445" />
+<img class="aligncenter size-full wp-image-134" src="/images/2014/07/20140601AO_En2OFSCPT_lingon2.jpg" alt="20140601AO_En2OFSCPT_lingon2" width="487" height="445" />
 
 Dit zijn alle stappen. Vanaf nu zal elke notitie met de tag “review” automatisch na elk uur in je Inbox van Omnifocus staan waarna je het verder kunt verwerken. Zo verlies je nooit meer een Evernote notitie bij een relevante taak in Omnifocus door de notitielink bij de taak.
 

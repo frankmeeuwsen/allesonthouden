@@ -36,4 +36,4 @@ Wil je op de hoogte blijven als ik live ga? Ik mail je! Zie onder voor het invoe
 Frank Meeuwsen,
 Evernote Business Certified Consultant
 
-<img class="alignleft wp-image-20 size-medium" src="http://allesonthouden.nl/wp-content/uploads/2014/06/ebcc_text-300x70.png" alt="ebcc_text" width="300" height="70" />
+<img class="alignleft wp-image-20 size-medium" src="/images/2014/06/ebcc_text-300x70.png" alt="ebcc_text" width="300" height="70" />

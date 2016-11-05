@@ -10,4 +10,4 @@ Wist je dat zelfs Ironman himself, Mr Tony Stark, een Evernote gebruiker is? Che
 
 <!--more-->
 
-<img class="aligncenter size-full wp-image-517" src="http://allesonthouden.nl/wp-content/uploads/2014/08/skitch.png" alt="skitch" width="608" height="548" />
+<img class="aligncenter size-full wp-image-517" src="/images/2014/08/skitch.png" alt="skitch" width="608" height="548" />

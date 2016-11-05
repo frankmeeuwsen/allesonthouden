@@ -16,20 +16,20 @@ Het is gelukkig <em>wel</em> mogelijk om een individuele notitie of een deel van
 	<li>Selecteer de tekst in de notitie die je wilt versleutelen</li>
 	<li>Met de rechtermuisknop kies je Geselecteerde tekst versleutelen.</li>
 </ul>
-<figure><img class="aligncenter size-full wp-image-919" src="http://allesonthouden.nl/wp-content/uploads/2015/08/309_evernote_encrytie_1.png" alt="309_evernote_encrytie_1" width="250" height="202" /></figure>
+<figure><img class="aligncenter size-full wp-image-919" src="/images/2015/08/309_evernote_encrytie_1.png" alt="309_evernote_encrytie_1" width="250" height="202" /></figure>
 <ul>
 	<li>In het scherm kies je een wachtwoord en herhaal je dit nogmaals.</li>
 </ul>
-<figure><img class="aligncenter size-full wp-image-922" src="http://allesonthouden.nl/wp-content/uploads/2015/08/309_evernote_encrytie_4.png" alt="309_evernote_encrytie_4" width="374" height="218" /></figure>
+<figure><img class="aligncenter size-full wp-image-922" src="/images/2015/08/309_evernote_encrytie_4.png" alt="309_evernote_encrytie_4" width="374" height="218" /></figure>
 <ul>
 	<li>Met de optie "Onthoud wachtwoord tot ik Evernote afsluit" aangevinkt kun je meerdere stukken tekst in meerdere notities met hetzelfde wachtwoord versleutelen. Als je dit niet wilt, zet je deze optie uit.</li>
 	<li>Na klikken op OK zie je de notitie met de versleutelde tekst.</li>
 </ul>
-<figure><img class="aligncenter size-full wp-image-920" src="http://allesonthouden.nl/wp-content/uploads/2015/08/309_evernote_encrytie_2.png" alt="309_evernote_encrytie_2" width="250" height="73" /></figure>
+<figure><img class="aligncenter size-full wp-image-920" src="/images/2015/08/309_evernote_encrytie_2.png" alt="309_evernote_encrytie_2" width="250" height="73" /></figure>
 <ul>
 	<li>Je kunt in alle installaties van Evernote de tekst weer leesbaar maken met het wachtwoord.</li>
 </ul>
-<figure><figcaption><img class="aligncenter size-full wp-image-921" src="http://allesonthouden.nl/wp-content/uploads/2015/08/309_evernote_encrytie_3.png" alt="309_evernote_encrytie_3" width="250" height="129" /></figcaption></figure>Hou er rekening mee dat je de titel van een notitie <em>niet</em> versleutelt. Deze is dus nog altijd wel doorzoekbaar en gewoon te lezen. Een ander aandachtspunt is dat de versleutelde tekst niet meer doorzoekbaar zal zijn zolang deze is versleuteld. Je kunt dus niet zoeken naar teksten die in versleutelde notities staan. Tenslotte, de mogelijkheid om notities te versleutelen zit niet in de mobiele applicaties. Je kunt mobiel wel versleutelde notities weer ontsleutelen.
+<figure><figcaption><img class="aligncenter size-full wp-image-921" src="/images/2015/08/309_evernote_encrytie_3.png" alt="309_evernote_encrytie_3" width="250" height="129" /></figcaption></figure>Hou er rekening mee dat je de titel van een notitie <em>niet</em> versleutelt. Deze is dus nog altijd wel doorzoekbaar en gewoon te lezen. Een ander aandachtspunt is dat de versleutelde tekst niet meer doorzoekbaar zal zijn zolang deze is versleuteld. Je kunt dus niet zoeken naar teksten die in versleutelde notities staan. Tenslotte, de mogelijkheid om notities te versleutelen zit niet in de mobiele applicaties. Je kunt mobiel wel versleutelde notities weer ontsleutelen.
 
 [clickToTweet tweet="Op @allesonthouden lees je hoe je makkelijk je notities in Evernote kunt versleutelen!" quote="Versleutel je notities in Evernote met een wachtwoord."]
 <h2 id="wathoefjenietinevernotetezetten">Wat hoef je niet in Evernote te zetten</h2>

@@ -18,7 +18,7 @@ Het uitgangspunt in de keynote van Phil is dat de productiviteitsmetaforen die w
 <h2>Webclient versimpeld</h2>
 De webclient van Evernote is zes jaar redelijk gelijk gebleven. Vanaf vandaag kun je instellen dat je de nieuwe (beta) versie van de webclient wilt gebruiken. Je komt direct in een veel simpeler interface en de editor past zich aan hoe jij werkt. Opmaakmogelijkheden worden pas zichtbaar als je iets selecteert. Als je geen tags hebt in Evernote, dan is die knop niet zichtbaar, evenals met snelkoppelingen. Zo blijft er meer ruimte over om te schrijven en te werken.
 
-<img class="aligncenter wp-image-689" src="http://allesonthouden.nl/wp-content/uploads/2014/10/Volledige_scherm_02-10-14_13_02.jpg" alt="Volledige_scherm_02-10-14_13_02" width="600" height="259" />
+<img class="aligncenter wp-image-689" src="/images/2014/10/Volledige_scherm_02-10-14_13_02.jpg" alt="Volledige_scherm_02-10-14_13_02" width="600" height="259" />
 <h2>Presentatiemode 2.0</h2>
 Ondanks het obligate 2.0 versienummer is de vernieuwde presentatiemodus in Evernote zeker wel boeiend. Ze nemen duidelijk afstand van de obligate Powerpoint presentaties die van elke bijeenkomst een pitch maakt met onnodige bulletpoints en animaties. Met de nieuwe presentatiemodus kun je van elke notitie direct een presentatie maken die direct bruikbaar is en direct feedback kan krijgen tijdens een meeting. De presentatiemodus is duidelijk bedoeld voor korte vergaderingen, niet voor keynote speeches of pitches. Met de lay-outeditor kun je heel snel en eenvoudig kleine veranderingen maken om direct en snel iets te laten zien.
 <h2>Workchat en Presence</h2>

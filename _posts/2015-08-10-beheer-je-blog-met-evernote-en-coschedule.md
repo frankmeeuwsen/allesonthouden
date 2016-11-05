@@ -31,7 +31,7 @@ Als je gastblogs schrijft kun je deze prima in Evernote maken. Via de koppeling 
 <h2 id="vragen">Vragen</h2>
 Ik heb de koppeling uitgebreid getest op een besloten Wordpress blog en met een aantal testnotities in Evernote. In onderstaande vragen kun je de testbevindingen lezen.
 
-<img class="aligncenter wp-image-955" src="http://allesonthouden.nl/wp-content/uploads/2015/08/skitch-1024x554.png" alt="skitch" width="700" height="379" />
+<img class="aligncenter wp-image-955" src="/images/2015/08/skitch-1024x554.png" alt="skitch" width="700" height="379" />
 <h3 id="hoewerktdekoppelingmetillustraties">Hoe werkt de koppeling met illustraties?</h3>
 Die worden geüpload en in je blog gezet. Dat werkt vlekkeloos tijdens mijn tests waarin ik afbeeldingen tussen teksten plaatste.
 <h3 id="werktdeconversiehetmetattachments">Werkt de conversie het met attachments?</h3>
@@ -57,4 +57,4 @@ Eerlijk gezegd vind ik de conversie tussen Evernote en Wordpress via <a href="ht
 
 <strong>Disclaimer</strong>: Alle links naar <a href="http://allesonthouden.nl/go/coschedule/">CoSchedule</a> komen uit hun affiliate programma. Als je ondanks de Evernote koppeling toch hun betaalde dienst wil gebruiken (wat ik je écht kan aanraden) dan krijg ik wat korting op mijn abonnement.
 
-<img class="invisible aligncenter wp-image-958 size-full" src="http://allesonthouden.nl/wp-content/uploads/2015/08/socialimage_coschedule.png" alt="socialimage_coschedule" width="800" height="400" />
+<img class="invisible aligncenter wp-image-958 size-full" src="/images/2015/08/socialimage_coschedule.png" alt="socialimage_coschedule" width="800" height="400" />

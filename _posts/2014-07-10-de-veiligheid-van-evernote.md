@@ -17,7 +17,7 @@ published: true
 /Users/USERNAME/Library/Application Support/Evernote/accounts/Evernote/ACCOUNTNAME/content vind je submappen met alle individuele notities. Hier kun je naar hartenlust in bladeren en rondkijken. Let wel op dat je geen items tussen de mappen verplaatst of verwijdert. Je loopt dan het gevaar dat de database corrupt raakt en Evernote niet goed meer functioneert. Uiteraard kun je deze mappen prima in je periodieke backup meenemen.</li>
 </ol>
 
-<img class="aligncenter size-full wp-image-219" src="http://allesonthouden.nl/wp-content/uploads/2014/07/Access_History.jpg" alt="Access_History" width="964" height="573" />
+<img class="aligncenter size-full wp-image-219" src="/images/2014/07/Access_History.jpg" alt="Access_History" width="964" height="573" />
 
 &nbsp;
 
