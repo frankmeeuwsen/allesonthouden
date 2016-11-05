@@ -1,6 +1,6 @@
 ---
 ID: 500
-post_title: >
+title: >
   Wat is het verschil tussen Evernote
   Premium en Evernote Business?
 author: Frank Meeuwsen

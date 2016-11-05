@@ -1,6 +1,6 @@
 ---
 ID: 27
-post_title: 'Evernote Business implementatie &#038; training'
+title: 'Evernote Business implementatie &#038; training'
 author: Frank Meeuwsen
 post_date: 2014-07-08 21:43:29
 post_excerpt: ""

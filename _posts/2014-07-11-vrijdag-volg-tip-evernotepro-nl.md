@@ -1,6 +1,6 @@
 ---
 ID: 140
-post_title: 'Vrijdag Volg Tip &#8211; Evernotepro.nl'
+title: 'Vrijdag Volg Tip : Evernotepro.nl'
 author: Frank Meeuwsen
 post_date: 2014-07-11 12:30:42
 layout: post

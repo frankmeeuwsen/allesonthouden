@@ -1,12 +1,12 @@
 ---
 ID: 850
-post_title: 'Evernote vernieuwt abonnementen en verhoogt quota&#8217;s'
+title: 'Evernote vernieuwt abonnementen en verhoogt quota's'
 author: Frank Meeuwsen
 post_date: 2015-04-29 17:39:59
 layout: post
 published: true
 ---
-<p><strong>Met ingang van vandaag zal Evernote een nieuw abonnement kennen &#8220;Evernote Plus&#8221; en worden de bestaande abonnementsvormen opnieuw gepositioneerd. In plaats van een &#8220;upgrade&#8221; model krijg je de mogelijkheid om de beste vorm van Evernote voor je behoefte te kiezen. Tevens veranderen de limieten voor notitiegrootte en maandelijkse uploadquota van Evernote Premium naar respectievelijk 200 Mb per notitie en een ongelimiteerd quotum. In dit artikel zet ik alle vernieuwingen op een rij.</strong> </p>
+<p><strong>Met ingang van vandaag zal Evernote een nieuw abonnement kennen "Evernote Plus" en worden de bestaande abonnementsvormen opnieuw gepositioneerd. In plaats van een "upgrade" model krijg je de mogelijkheid om de beste vorm van Evernote voor je behoefte te kiezen. Tevens veranderen de limieten voor notitiegrootte en maandelijkse uploadquota van Evernote Premium naar respectievelijk 200 Mb per notitie en een ongelimiteerd quotum. In dit artikel zet ik alle vernieuwingen op een rij.</strong> </p>
 
 <!--more-->
 
@@ -26,7 +26,7 @@ Maximale notitiegrootte: 50MB</p>
 Maximale maandlimiet: Unlimited
 Maximale notitiegrootte: 200MB</p>
 
-<p><strong>Evernote Business</strong> – Evernote Business is ‘Premium voor teams,&#8217; inclusief versimpelde facturatie en extra IT instrumenten om het bedrijfsaccount centraal te regelen. Evernote Business krijgt een nieuw admin-console om het account nog beter te beheren.
+<p><strong>Evernote Business</strong> – Evernote Business is ‘Premium voor teams,' inclusief versimpelde facturatie en extra IT instrumenten om het bedrijfsaccount centraal te regelen. Evernote Business krijgt een nieuw admin-console om het account nog beter te beheren.
 Maximale maandlimiet: Unlimited
 Maximale notitiegrootte: 200MB</p>
 
@@ -51,7 +51,7 @@ Voor Nederland is de prijsopbouw als volgt</p>
 <li><em>Data retentie</em>: Al het werk wat in Business notitieboeken staat blijft bij het bedrijf, zelfs na vertrek van de medewerker of klant.</li>
 <li><em>Effectiever delen</em>: In Business is het makkelijker dan ooit om notitieboeken te delen met je team.</li>
 <li><em>Simpel accountmanagement</em>: Het nieuwe admin dashboard is eenvoudig in het toevoegen van nieuwe gebruikers en om inzicht te krijgen in het gebruik van Evernote Business door je teamleden (aantal notities etc.)</li>
-<li><em>Knowledge Discovery</em>: De Evernote context mogelijkheden laat in realtime de notities zien van je teamleden die relevant zijn voor de notitie waar jij aan werkt. Daarnaast kan het suggesties geven voor collega&#8217;s in de organisatie die meer weten over het onderwerp waar je over schrijft.</li>
+<li><em>Knowledge Discovery</em>: De Evernote context mogelijkheden laat in realtime de notities zien van je teamleden die relevant zijn voor de notitie waar jij aan werkt. Daarnaast kan het suggesties geven voor collega's in de organisatie die meer weten over het onderwerp waar je over schrijft.</li>
 <li><em>Centrale facturatie</em>: Eén factuur voor het complete abonnement in plaats van individuele facturen per Premium abonnement.</li>
 </ul>
 

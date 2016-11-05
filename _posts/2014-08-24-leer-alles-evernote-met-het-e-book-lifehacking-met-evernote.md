@@ -1,6 +1,6 @@
 ---
 ID: 553
-post_title: >
+title: >
   Alles over het e-book Lifehacking met
   Evernote
 author: Frank Meeuwsen

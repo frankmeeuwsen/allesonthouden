@@ -1,6 +1,6 @@
 ---
 ID: 1027
-post_title: Werken Evernote en bitcoin samen?
+title: Werken Evernote en bitcoin samen?
 author: Frank Meeuwsen
 post_date: 2015-11-15 11:31:24
 layout: post

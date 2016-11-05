@@ -1,6 +1,6 @@
 ---
 ID: 632
-post_title: Nederland in de Million User Club
+title: Nederland in de Million User Club
 author: Frank Meeuwsen
 post_date: 2014-09-09 13:06:24
 layout: post
@@ -13,4 +13,4 @@ Evernote kondigt vandaag aan dat zij meer dan <em>één miljoen gebruikers</em> 
 
 Nederland sluit zich met deze gebruikersmijlpaal aan bij 20 andere landen in de ‘million user club’, waaronder Japan, de VS, Duitsland, en Spanje. Binnen Europa vormen de Engelsen de grootste groep Evernote afnemers, het zijn er ruim 3,7 miljoen.
 
-Goed&#8230;.nu dus die miljoen mensen naar Alles Onthouden krijgen en ik ben tevreden!
+Goed....nu dus die miljoen mensen naar Alles Onthouden krijgen en ik ben tevreden!

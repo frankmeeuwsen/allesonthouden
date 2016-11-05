@@ -1,6 +1,6 @@
 ---
 ID: 159
-post_title: '#Evernotecollection &#8211; Skitch'
+title: '#Evernotecollection : Skitch'
 author: Frank Meeuwsen
 post_date: 2014-07-27 09:30:00
 layout: post

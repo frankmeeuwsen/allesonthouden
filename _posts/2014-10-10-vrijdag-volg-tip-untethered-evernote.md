@@ -1,6 +1,6 @@
 ---
 ID: 700
-post_title: 'Vrijdag Volg Tip &#8211; Untethered with Evernote'
+title: 'Vrijdag Volg Tip : Untethered with Evernote'
 author: Frank Meeuwsen
 post_date: 2014-10-10 21:31:46
 layout: post

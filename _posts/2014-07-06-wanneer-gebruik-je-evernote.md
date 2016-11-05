@@ -1,6 +1,6 @@
 ---
 ID: 4
-post_title: Wanneer gebruik je Evernote?
+title: Wanneer gebruik je Evernote?
 author: Frank Meeuwsen
 post_date: 2014-07-06 21:51:32
 layout: post

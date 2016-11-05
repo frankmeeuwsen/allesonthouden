@@ -1,6 +1,6 @@
 ---
 ID: 725
-post_title: >
+title: >
   Work Chat brengt het gesprek naar
   Evernote
 author: Frank Meeuwsen

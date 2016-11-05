@@ -1,6 +1,6 @@
 ---
 ID: 156
-post_title: Hoe werkt Evernote met e-mail?
+title: Hoe werkt Evernote met e-mail?
 author: Frank Meeuwsen
 post_date: 2014-07-22 09:30:00
 layout: post

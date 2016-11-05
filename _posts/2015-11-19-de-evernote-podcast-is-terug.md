@@ -1,6 +1,6 @@
 ---
 ID: 1045
-post_title: De Evernote podcast is terug!
+title: De Evernote podcast is terug!
 author: Frank Meeuwsen
 post_date: 2015-11-19 21:43:03
 layout: post

@@ -1,6 +1,6 @@
 ---
 ID: 522
-post_title: >
+title: >
   Automatisch bestanden importeren in
   Evernote Windows
 author: Frank Meeuwsen

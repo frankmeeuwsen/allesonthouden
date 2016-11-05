@@ -1,6 +1,6 @@
 ---
 ID: 516
-post_title: 'Verrassende Evernote gebruikers&#8230;'
+title: 'Verrassende Evernote gebruikers...'
 author: Frank Meeuwsen
 post_date: 2014-08-19 00:08:56
 layout: post

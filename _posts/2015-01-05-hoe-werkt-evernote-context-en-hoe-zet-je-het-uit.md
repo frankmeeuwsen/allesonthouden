@@ -1,6 +1,6 @@
 ---
 ID: 793
-post_title: >
+title: >
   Hoe werkt Evernote Context (en hoe zet
   je het uit)?
 author: Frank Meeuwsen

@@ -1,6 +1,6 @@
 ---
 ID: 770
-post_title: 'Vrijdag Volg Tip &#8211; Een boek schrijven met Evernote'
+title: 'Vrijdag Volg Tip : Een boek schrijven met Evernote'
 author: Frank Meeuwsen
 post_date: 2014-12-05 14:15:36
 layout: post

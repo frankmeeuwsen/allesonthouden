@@ -1,6 +1,6 @@
 ---
 ID: 832
-post_title: >
+title: >
   Ik wil meer weten over de Evernote
   cursus!
 author: Frank Meeuwsen

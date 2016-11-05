@@ -1,6 +1,6 @@
 ---
 ID: 828
-post_title: Sneller werken in Evernote
+title: Sneller werken in Evernote
 author: Frank Meeuwsen
 post_date: 2015-01-28 09:00:14
 layout: post
@@ -9,7 +9,7 @@ published: true
 <p><strong>Het is geen geheim dat je productiviteit en <em>plezier</em> in werken vooruit gaat als je in een flow zit. Als je niet hoeft na te denken over wat je waar heen stuurt, op welke knop je drukt of welk menu je nodig hebt, maar het gewoon kunt <em>doen</em>. Sneltoetsen helpen hier bij en natuurlijk heeft Evernote een aantal sneltoetsen tot zijn beschikking.</strong>
 <!--more--></p>
 
-<p>Ik heb al eerder geschreven over de <a href="http://allesonthouden.nl/de-belangrijkste-sneltoetsen-evernote/">belangrijkste sneltoetsen</a> in Evernote, maar ik liet een zeer interessante sneltoets achterwege. Zowel in Windows als in OSX heeft Evernote zogenaamde &#8220;global keyboard shortcuts&#8221; om direct iets in of met Evernote te doen. Een sneltoets die altijd werkt, ongeacht in welke applicatie je werkt<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a>. </p>
+<p>Ik heb al eerder geschreven over de <a href="http://allesonthouden.nl/de-belangrijkste-sneltoetsen-evernote/">belangrijkste sneltoetsen</a> in Evernote, maar ik liet een zeer interessante sneltoets achterwege. Zowel in Windows als in OSX heeft Evernote zogenaamde "global keyboard shortcuts" om direct iets in of met Evernote te doen. Een sneltoets die altijd werkt, ongeacht in welke applicatie je werkt<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a>. </p>
 
 <h2 id="sneleennieuwenotitiemaken">Snel een nieuwe notitie maken</h2>
 
@@ -34,7 +34,7 @@ published: true
 <ol>
 
 <li id="fn:1">
-<p>Tenzij de applicatie een sneltoets heeft die de globale overschrijft. Je kunt niet alles hebben&#8230; <a href="#fnref:1" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+<p>Tenzij de applicatie een sneltoets heeft die de globale overschrijft. Je kunt niet alles hebben... <a href="#fnref:1" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
 </li>
 
 </ol>

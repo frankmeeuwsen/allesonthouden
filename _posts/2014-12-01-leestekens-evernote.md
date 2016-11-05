@@ -1,6 +1,6 @@
 ---
 ID: 758
-post_title: 'Leestekens in Evernote &#8211; Is ! beter is dan $?'
+title: 'Leestekens in Evernote : Is ! beter is dan $?'
 author: Frank Meeuwsen
 post_date: 2014-12-01 10:00:17
 layout: post

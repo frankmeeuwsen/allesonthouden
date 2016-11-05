@@ -16,8 +16,8 @@ Ik heb mijn volledige site uit Wordpress gehaald en omgezet naar deze structuur.
 4. ~~Mijn 404 pagina is nog niet zoals ik hem wil. Die moet ik nog aanpassen~~
 ([Het](/404) is in elk geval beter dan wat er eerst was)
 5. ~~Op de oude site had ik een paar pagina's met tekst en uitleg. Die moet ik nog beschikbaar stellen hier~~
-3. Ik heb nu geen https meer. Ik moet nog even uitvogelen hoe dat zit en of het echt nodig is.
-3. De artikeltitels op de homepage zijn nog niet zoals ik wil. Dat is iets in het [template](http://hyde.getpoole.com/).
+3. ~~De artikeltitels op de homepage zijn nog niet zoals ik wil. Dat is iets in het [template](http://hyde.getpoole.com/).~~
+3. Ik heb nu geen https meer. Ik moet nog even uitvogelen hoe dat zit.
 6. En mocht het me ooit lukken, dan wil ik toch wel een andere template. Maar dat kost tijd en energie die ik liever aan andere dingen besteedt. Misschien ooit een keer.
 
 Je kunt de complete site en de onderliggende code en framework zelf downloaden en verbeteren via [mijn Github repository](https://github.com/frankmeeuwsen/allesonthouden).

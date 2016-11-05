@@ -1,6 +1,6 @@
 ---
 ID: 153
-post_title: '#Evernotecollection &#8211; Webclipper'
+title: '#Evernotecollection : Webclipper'
 author: Frank Meeuwsen
 post_date: 2014-07-20 09:15:00
 layout: post

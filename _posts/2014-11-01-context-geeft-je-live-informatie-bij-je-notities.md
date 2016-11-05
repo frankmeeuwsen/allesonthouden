@@ -1,6 +1,6 @@
 ---
 ID: 736
-post_title: >
+title: >
   Context geeft je live informatie bij je
   notities
 author: Frank Meeuwsen

@@ -1,6 +1,6 @@
 ---
 ID: 150
-post_title: De belangrijkste sneltoetsen in Evernote
+title: De belangrijkste sneltoetsen in Evernote
 author: Frank Meeuwsen
 post_date: 2014-08-21 09:15:00
 layout: post

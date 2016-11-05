@@ -1,6 +1,6 @@
 ---
 ID: 151
-post_title: >
+title: >
   Importeer automatisch documenten in
   Evernote (OSX)
 author: Frank Meeuwsen

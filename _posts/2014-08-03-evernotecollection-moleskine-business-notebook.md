@@ -1,6 +1,6 @@
 ---
 ID: 160
-post_title: '#evernotecollection &#8211; Moleskine Business Notebook'
+title: '#evernotecollection : Moleskine Business Notebook'
 author: Frank Meeuwsen
 post_date: 2014-08-03 09:30:00
 layout: post

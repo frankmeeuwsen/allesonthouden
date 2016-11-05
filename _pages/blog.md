@@ -1,6 +1,6 @@
 ---
 ID: 276
-post_title: Blog
+title: Blog
 author: Frank Meeuwsen
 post_date: 2014-07-25 21:07:28
 post_excerpt: ""

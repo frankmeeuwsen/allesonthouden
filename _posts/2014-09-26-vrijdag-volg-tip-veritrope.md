@@ -1,6 +1,6 @@
 ---
 ID: 677
-post_title: 'Vrijdag Volg Tip &#8211; Veritrope'
+title: 'Vrijdag Volg Tip : Veritrope'
 author: Frank Meeuwsen
 post_date: 2014-09-26 08:50:51
 layout: post

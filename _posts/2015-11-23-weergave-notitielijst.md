@@ -1,6 +1,6 @@
 ---
 ID: 1064
-post_title: >
+title: >
   Kies je eigen weergave van je notities
   in Evernote
 author: Frank Meeuwsen

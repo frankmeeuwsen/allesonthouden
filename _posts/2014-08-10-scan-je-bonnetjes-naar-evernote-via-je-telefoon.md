@@ -1,6 +1,6 @@
 ---
 ID: 425
-post_title: >
+title: >
   Scan je bonnetjes naar Evernote via je
   telefoon
 author: Frank Meeuwsen

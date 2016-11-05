@@ -1,6 +1,6 @@
 ---
 ID: 1077
-post_title: Alternatieven voor Skitch (Windows)
+title: Alternatieven voor Skitch (Windows)
 author: Frank Meeuwsen
 post_date: 2015-12-19 22:18:27
 layout: post

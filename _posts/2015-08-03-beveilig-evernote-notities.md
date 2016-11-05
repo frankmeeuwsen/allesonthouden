@@ -1,6 +1,6 @@
 ---
 ID: 915
-post_title: Hoe versleutel je notities?
+title: Hoe versleutel je notities?
 author: Frank Meeuwsen
 post_date: 2015-08-03 09:00:30
 layout: post

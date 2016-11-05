@@ -1,6 +1,6 @@
 ---
 ID: 15
-post_title: Alles Onthouden
+title: Alles Onthouden
 author: Frank Meeuwsen
 post_date: 2014-06-29 22:30:34
 post_excerpt: ""

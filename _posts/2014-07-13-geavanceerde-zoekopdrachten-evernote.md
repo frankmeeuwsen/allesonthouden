@@ -1,6 +1,6 @@
 ---
 ID: 53
-post_title: Geavanceerde zoekopdrachten in Evernote
+title: Geavanceerde zoekopdrachten in Evernote
 author: Frank Meeuwsen
 post_date: 2014-07-13 22:38:31
 layout: post

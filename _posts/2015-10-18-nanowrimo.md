@@ -1,6 +1,6 @@
 ---
 ID: 997
-post_title: 'NaNoWriMo en Evernote &#8211; Tips voor gebruik'
+title: 'NaNoWriMo en Evernote : Tips voor gebruik'
 author: Frank Meeuwsen
 post_date: 2015-10-18 14:02:22
 layout: post
@@ -17,7 +17,7 @@ De sleutel tot succes in deze schrijfmaand is discipline en focus. Het eerste ka
 
 <h2 id="planning">Planning</h2>
 
-<p>Je kunt in Evernote een apart notitieboek maken om in te schrijven en je inspiratie in op te slaan. Noem dit notitieboek &#8220;prive:NaNoWriMo&#8221; volgens <a href="schrijfwijze">mijn schrijfwijze</a> en sleep het naar de sneltoetsenbalk. Zo heb je gedurende de maand direct toegang tot het notitieboek.<br/>
+<p>Je kunt in Evernote een apart notitieboek maken om in te schrijven en je inspiratie in op te slaan. Noem dit notitieboek "prive:NaNoWriMo" volgens <a href="schrijfwijze">mijn schrijfwijze</a> en sleep het naar de sneltoetsenbalk. Zo heb je gedurende de maand direct toegang tot het notitieboek.<br/>
 Maak een <a href="labels">aantal labels</a> aan voor inspiratie, karakternamen, verhaallijnen, concepten en gereed werk. Hier kun je denken aan labels als:</p>
 
 <ul>
@@ -56,7 +56,7 @@ Wil je meer geconcentreerd in Evernote schrijven, gebruik dan de <a href="webver
 <figcaption>De webversie van Evernote</figcaption>
 </figure>
 
-<p>Persoonlijk gebruik ik liever programma&#8217;s als Scrivener en MultiMarkdown Composer om langere artikelen te schrijven. Evernote is voor mij voornamelijk een organisatie en projectinstrument. Langer schrijfwerk doe ik niet vaak in Evernote. </p>
+<p>Persoonlijk gebruik ik liever programma's als Scrivener en MultiMarkdown Composer om langere artikelen te schrijven. Evernote is voor mij voornamelijk een organisatie en projectinstrument. Langer schrijfwerk doe ik niet vaak in Evernote. </p>
 
 <h2 id="meertips">Meer tips</h2>
 

@@ -1,6 +1,6 @@
 ---
 ID: 805
-post_title: 55 manieren waarop ik Evernote gebruik
+title: 55 manieren waarop ik Evernote gebruik
 author: Frank Meeuwsen
 layout: page
 

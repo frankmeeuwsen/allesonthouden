@@ -1,6 +1,6 @@
 ---
 ID: 580
-post_title: Privacy policy
+title: Privacy policy
 author: Frank Meeuwsen
 post_date: 2014-09-02 14:45:25
 post_excerpt: ""

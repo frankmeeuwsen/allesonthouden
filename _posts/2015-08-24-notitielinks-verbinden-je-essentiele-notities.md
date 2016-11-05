@@ -1,6 +1,6 @@
 ---
 ID: 965
-post_title: >
+title: >
   Notitielinks verbinden je essentiele
   notities
 author: Frank Meeuwsen

@@ -1,6 +1,6 @@
 ---
 ID: 639
-post_title: 'EC4 &#8211; van inspiratie naar succes'
+title: 'EC4 : van inspiratie naar succes'
 author: Frank Meeuwsen
 post_date: 2014-09-15 09:44:41
 layout: post

@@ -1,6 +1,6 @@
 ---
 ID: 165
-post_title: 'Vrijdag Volg Tip &#8211; Jason Frasca'
+title: 'Vrijdag Volg Tip : Jason Frasca'
 author: Frank Meeuwsen
 post_date: 2014-08-22 09:30:00
 layout: post

@@ -1,6 +1,6 @@
 ---
 ID: 687
-post_title: 'Evernote is je moderne werkplek (live vanaf #EC4)'
+title: 'Evernote is je moderne werkplek (live vanaf #EC4)'
 author: Frank Meeuwsen
 post_date: 2014-10-02 22:48:09
 layout: post

@@ -1,6 +1,6 @@
 ---
 ID: 152
-post_title: 'Vrijdag Volg Tip &#8211; Going Paperless'
+title: 'Vrijdag Volg Tip : Going Paperless'
 author: Frank Meeuwsen
 post_date: 2014-07-25 09:15:00
 layout: post

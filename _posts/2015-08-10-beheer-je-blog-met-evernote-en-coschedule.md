@@ -1,6 +1,6 @@
 ---
 ID: 954
-post_title: >
+title: >
   Beheer je blog met Evernote en
   CoSchedule
 author: Frank Meeuwsen

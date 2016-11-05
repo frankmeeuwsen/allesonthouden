@@ -1,6 +1,6 @@
 ---
 ID: 981
-post_title: Notities samenvoegen in Evernote
+title: Notities samenvoegen in Evernote
 author: Frank Meeuwsen
 post_date: 2015-09-02 23:08:34
 layout: post

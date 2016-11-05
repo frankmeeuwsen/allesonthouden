@@ -1,6 +1,6 @@
 ---
 ID: 712
-post_title: Evernote Business sessie op EC4 (video)
+title: Evernote Business sessie op EC4 (video)
 author: Frank Meeuwsen
 post_date: 2014-10-27 21:16:18
 layout: post

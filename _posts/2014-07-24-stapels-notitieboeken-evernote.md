@@ -1,6 +1,6 @@
 ---
 ID: 293
-post_title: Stapels notitieboeken in Evernote
+title: Stapels notitieboeken in Evernote
 author: Frank Meeuwsen
 post_date: 2014-07-24 11:15:00
 layout: post

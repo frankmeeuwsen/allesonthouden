@@ -1,6 +1,6 @@
 ---
 ID: 807
-post_title: Hoe gebruik ik Evernote?
+title: Hoe gebruik ik Evernote?
 author: Frank Meeuwsen
 post_date: 2015-01-06 19:55:56
 layout: post

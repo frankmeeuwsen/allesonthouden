@@ -1,6 +1,6 @@
 ---
 ID: 774
-post_title: >
+title: >
   Hoe maak je een Twitter leeslijst in
   Evernote?
 author: Frank Meeuwsen

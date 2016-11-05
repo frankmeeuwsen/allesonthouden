@@ -1,6 +1,6 @@
 ---
 ID: 535
-post_title: Wat betekent het om Alles te Onthouden?
+title: Wat betekent het om Alles te Onthouden?
 author: Frank Meeuwsen
 post_date: 2014-08-31 21:45:00
 layout: post
