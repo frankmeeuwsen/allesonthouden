@@ -23,9 +23,14 @@ description: > # this means to ignore newlines until "baseurl:"
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://localhost:4000/"
 
+#Live predomain
+#baseurl: "/allesonthouden/"
+#url: "http://frankmeeuwsen.github.io"
+
 #Live
-baseurl: "/allesonthouden/"
-url: "http://frankmeeuwsen.github.io"
+baseurl: ""
+url: "http://allesonthouden.nl"
+
 
 # twitter_username: frankmeeuwsen
 # github_username:  jekyll
