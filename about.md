@@ -1,30 +1,17 @@
 ---
 layout: page
-title: About
+title: Over Allesonthouden.nl
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+In 2014 en 2015 heb ik veel geschreven over Evernote op deze site. Echter, gedurende 2015 werd me duidelijk dat ik professioneel  een andere richting zou kiezen en dat ik minder tijd zou krijgen voor deze site. De hosting voor deze site liep echter wel door. Logisch, want ik had Wordpress nodig en daarvoor heb ik een hostingpartij nodig.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Maar nu ik niet meer actief ben hier, zullen er minder snel updates op de site zijn. Maar er is een andere ontwikkeling, namelijk statische blogsites. Wat je nu leest komt niet uit een database maar schrijf ik in [Markdown](https://daringfireball.net/projects/markdown/syntax), een versimpelde taal om blogposts en pagina's te maken. Daarnaast is de site niet meer vanuit Wordpress opgebouwd, maar gebruik ik een framework genaamd [Jekyll](https://jekyllrb.com). Dit maakt het mogelijk om lokaal op mijn laptop posts te schrijven en deze vrij eenvoudig te publiceren op de site. Ik doe dit nu bij [Github Pages](https://pages.github.com/). Dit is een fantastisch initiatief waardoor ik deze kleine en lichte site gratis kan hosten.
 
-There are currently two themes built on Poole:
+Ik heb mijn volledige site uit Wordpress gehaald en omgezet naar deze structuur. Er zijn nog wel een paar mitsen en maren die ik de komende tijd eens op zou moeten lossen...
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+1. De afbeeldingen heb ik als backup lokaal staan maar zijn nog niet volledig omgezet in deze nieuwe URL structuur
+2. Door de nieuwe URL structuur zal zoekmachine verkeer, hoe minimaal ook, niet meer lekker lopen. Dat moet ik nog in orde maken
+3. Een nieuwe sitemap in XML formaat bij Google wegzetten.
+4. Mijn 404 pagina is nog niet zoals ik hem wil. Die moet ik nog aanpassen
+5. Op de oude site had ik een paar pagina's met tekst en uitleg. Die moet ik nog beschikbaar stellen hier
+6. En mocht het me ooit lukken, dan wil ik toch wel een andere template. Maar dat kost tijd en energie die ik liever aan andere dingen besteedt. Misschien ooit een keer.
