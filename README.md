@@ -1,3 +1,3 @@
 # Allesonthouden
 
-Een volledige backup van allesonthouden.nl omgezet van Wordpress naar Jekyll. 
+Een volledige backup van allesonthouden.nl omgezet van WordPress naar Jekyll. 
