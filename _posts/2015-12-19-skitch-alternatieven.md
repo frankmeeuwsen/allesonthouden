@@ -5,6 +5,7 @@ author: Frank Meeuwsen
 post_date: 2015-12-19 22:18:27
 layout: post
 published: true
+description: Wat zijn de alternatieven voor Skitch?
 ---
 <strong>Afgelopen vrijdag maakte Evernote bekend dat ze per 22 januari stoppen met de Pebble-app, de Clearly-extensie en het screenshot- en anotatieprogramma Skitch op Windows, iOS en Android. Wat zijn op het Windows platform prima alternatieven voor Skitch? Ik legde er een paar naast elkaar.</strong>
 
